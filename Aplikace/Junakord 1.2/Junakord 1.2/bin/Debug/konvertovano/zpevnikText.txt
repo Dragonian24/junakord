@@ -1,0 +1,518 @@
+
+<h2>1:</h2>
+<p class="text">[D]Máš má ovečko [A]dávno spát, [G]i píseň ptáků [D]končí
+Kvůli nám přesta[A]l vítr vát, [G]jen můra [G]zírá zvenčí<br />
+[A]Já znám její zášť, tak[G] vyhledej skrýš<br />
+[A]Zas má bílej plášť a v[G] okně je[A] mříž<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">[D]Máš má ovečko [A]dávno spát
+[G]A můžeš hřát, ty mě [E]můžeš hřát<br />
+Vždyť [D]přijdou se [G]ptát, zítra zas [D]přijdou se [G]ptát<br />
+Jestli ty v [D]mých předsta[G]vách už[D] mizíš<br />
+</p>
+<h2>2:</h2>
+<p class="text">Máš má ovečko dávno spát, dnes máme půlnoc temnou
+Ráno budou nám bláznům lhát, že ráda snídáš se mnou<br />
+Proč měl bych jim lhát, že jsem tady sám<br />
+Když Tebe mám rád, když Tebe tu mám<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>Ref:</h2>
+<p class="text">
+
+
+
+<h2>1:</h2>
+<p class="text">Když [D]sever válčí s jihem a [G]zem jde do válk[D]y,
+na polích místo bavlny teď [E]rostou bodlák[A7]y.<br />
+Ve [D]stínu u silnice vidíš z [G]jihu voják[D]y,<br />
+válejí se klidně a lou[A7]skaj buráky[D].<br />
+</p>
+<h2>ref:</h2>
+<p class="text">[D]Hej hou, hej hou, nač [G]chodit do válk[D]y,
+je lepší doma sedět a lous[E]kat burák[A7]y.<br />
+Hej h[D]ou, hej hou, nač ch[G]odit do válk[D]y,<br />
+je lepší doma sedět a lo[A7]upat bur[D]áky.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Plukovník je v sedle volá Yenkyové jdou,
+mužstvo stále křičí, že dál už nemohou.<br />
+Plukovník se otočí a koukne do dálky<br />
+jak jeho slavná milice teď louská buráky.<br />
+</p>
+<h2>ref:</h2>
+<p class="text">
+<h2>3:</h2>
+<p class="text">Až tahle válka skončí a my zas budem žít,
+své milenky a ženy zas půjdem políbit.<br />
+Pak zeptaj se tě: „Hrdino, cos dělal za války?“<br />
+„Já flákal jsem se s kvérem a louskal buráky.“<br />
+</p>
+<h2>ref:</h2>
+<p class="text">
+
+
+
+<h2>1:</h2>
+<p class="text">/:V dáli za horama stojí chajda malá:/
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">Sp[D]inkej můj maličký,
+má[C]š v očích h[D]vězdičky,<br />
+dám Ti je d[C]o vlasů,<br />
+tak u[G]sínej, tak us[D]ínej.<br />
+</p>
+<h2>ref:</h2>
+<p class="text">[D]Ho ho Watanay, h[C]o ho W[D]atanay,
+ho ho [C]Watanay, Kio[G]kena, Ki[D]okena.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Sladkou vůni nese ti noční motýl z perleti,
+vánek ho kolíbá, už usíná, už usíná.<br />
+</p>
+<h2>ref:</h2>
+<p class="text">
+<h2>3:</h2>
+<p class="text">V lukách to zavoní, rád jezdíš na koni,
+má barvu havraní, jak uhání, jak uhání.<br />
+</p>
+<h2>ref:</h2>
+<p class="text">
+<h2>4:</h2>
+<p class="text">V dlani motýl usíná, hvězdička už zhasíná,
+vánek, co ji k tobě nes‘, až do léta ti odlétá.<br />
+</p>
+<h2>ref:</h2>
+<p class="text">
+
+
+
+<h2>1:</h2>
+<p class="text">Sto[D]jí hruška v [A]širém poli
+vrš[D]ek se jí [G]zele[A]ná<br />
+/: pod[D] ní se [G]pase k[A]ůň vra[D]ný<br />
+pase ho [A]má [D]milá :/<br />
+</p>
+<h2>2:</h2>
+<p class="text">Proč má milá dnes pasete
+z večera do rána<br />
+/: kam můj milý pojedete<br />
+já pojedu s váma :/<br />
+</p>
+<h2>3:</h2>
+<p class="text">ó já pojedu daleko
+přes vody hluboké<br />
+/: kéž bych byl nikdy nepoznal<br />
+panny černooké :/<br />
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">Býval jsem [C]chudý jak [F]kostelní [C]myš,
+Na půdě [Em]půdy jsem [Am]míval svou [G]skrýš,<br />
+/: [F]Pak jednou v [C]létě [G]řek jsem si [Am]bať,<br />
+[F]Svět fackuje[C] tě, a [F]tak mu to [C]vrať. :/<br />
+</p>
+<h2>2:</h2>
+<p class="text">Když mi dát nechceš, já vezmu si sám,
+Zámek jde lehce a adresu znám.<br />
+/: Zlato jak zlato, dolar či frank,<br />
+Tak jsem šel na to do National Bank. :/<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Jdou po mně, [C]jdou, [F]jdou, [C]jdou,
+Na každým [Em]rohu [Am]mají fotku [G]mou.<br />
+[F]Kdyby mě [C]chytli, [G]jó, byl by [Am]ring,<br />
+[F]Tma jako v [C]pytli je v [B]celách Sing-[F]Sing,<br />
+[G]Jé, [C]jé...[F][C]<br />
+</p>
+<h2>3:</h2>
+<p class="text">Ve státě Iowa byl od poldů klid,
+Chudinká vdova mi nabídla byt.<br />
+/: Byla to kráska, já měl peníze,<br />
+Tak začla láska jak z televize. :/<br />
+</p>
+<h2>4:</h2>
+<p class="text">Však půl roku nato řekla mi dost,
+Tobě došlo zlato, mně trpělivost.<br />
+/: Sbal svých pár švestek a běž si, kam chceš!<br />
+Tak jsem na cestě a chudý jak veš. :/<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>5:</h2>
+<p class="text">Teď ve státě Utah žiju spokojen,
+Pípu jsem utáh a straním se žen.<br />
+/: Kladou mi pasti a do pastí špek,<br />
+Já na ně mastím, jen ať mají vztek. :/<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+
+
+
+<h2>1:</h2>
+<p class="text">[Am]Spatřil jsem kometu oblohou letěla
+chtěl jsem jí zazpívat ona mi zmizela<br />
+[Dm]zmizela jako laň [G7]u lesa v remízku<br />
+v [C]očích mi zbylo jen [E7]pár žlutých penízků<br />
+</p>
+<h2>2:</h2>
+<p class="text">Penízky ukryl jsem do hlíny pod dubem
+až příště přiletí my už tu nebudem<br />
+my už tu nebudem ach pýcho marnivá<br />
+spatřil jsem kometu chtěl jsem jí zazpívat<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">[Am]O vodě o trávě [Dm]o lese
+[G7]o smrti se kterou smířit [C]nejde se[E7]<br />
+[Am]o lásce o zradě [Dm]o světě<br />
+[E]a o všech lidech co kdy[E7] žili na téhle plan[Am]etě<br />
+</p>
+<h2>3:</h2>
+<p class="text">Na hvězdném nádraží cinkají vagóny
+pan Kepler rozepsal nebeské zákony<br />
+hledal až nalezl v hvězdářských triedrech<br />
+tajemství která teď neseme na bedrech<br />
+</p>
+<h2>4:</h2>
+<p class="text">Velká a odvěká tajemství přírody
+že jenom z člověka člověk se narodí<br />
+že kořen s větvemi ve strom se spojuje<br />
+krev našich nadějí vesmírem putuje<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">na na na ...
+</p>
+<h2>5:</h2>
+<p class="text">Spatřil jsem kometu byla jak reliéf
+zpod rukou umělce který už nežije<br />
+šplhal jsem do nebe chtěl jsem ji osahat<br />
+marnost mě vysvlékla celého donaha<br />
+</p>
+<h2>6:</h2>
+<p class="text">Jak socha Davida z bílého mramoru
+stál jsem a hleděl jsem hleděl jsem nahoru<br />
+až příště přiletí ach pýcho marnivá<br />
+my už tu nebudem ale jiný jí zazpívá<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">O vodě o trávě o lese
+o smrti se kterou smířit nejde se<br />
+o lásce o zradě o světě<br />
+bude to písnička o nás a kometě<br />
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">/: [Am]Mezi horami – lipka [G]zele[Am]ná :/
+/: [C]zabili Janka, [G]Janíčka, [Am]Janka<br />
+miesto [G]jele[Am]ňa :/<br />
+</p>
+<h2>2:</h2>
+<p class="text">/: Keď ho zabili, zamordovali :/
+/: na jeho hrobě, na jeho hrobě<br />
+kříž postavili :/<br />
+</p>
+<h2>3:</h2>
+<p class="text">/: Ej křížu, křížu ukřižovaný :/
+/: zde leží Janík, Janíček, Janík,<br />
+zamordovaný :/<br />
+</p>
+<h2>4:</h2>
+<p class="text">/: Tu šla Anička plakat Janíčka :/
+/: hned na hrob padla a viac něvstala<br />
+dobrá Anička :/<br />
+<br />
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">[C]Slunce šlo [G]spát
+[F]za hromádku [G]klád<br />
+[C]na nebi [Am]hvězdy [G]klíčí.<br />
+[C]Už nepra[G]cuj, mr[F]avenečku[G] můj,<br />
+[C]schovej s[G]e do jehl[C]ičí.<br />
+</p>
+<h2>R:</h2>
+<p class="text">[C]Máš n[F]ožičky [C]uběh[G]ané,
+[C]den by[F]l tak těž[G]ký.<br />
+[C]Pojď, [F]lůžko máš[C] odestl[G]ané<br />
+[C]v plátku[F] od mace[C]šky.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Spinká a sní
+mravenec lesní<br />
+v hromádce u kapradí.<br />
+Nespinká sám,<br />
+s maminkou je tam,<br />
+tykadlama ho hladí.<br />
+</p>
+<h2>3:</h2>
+<p class="text">La-la-la-lá-la-la-la-lá
+la-la-la-la-la-la-lá-lá....<br />
+</p>
+
+
+
+<h2>pre:</h2>
+<p class="text">[Am]Maja, [G]Maja, [F]Maja, [E]Maja...
+</p>
+<h2>1:</h2>
+<p class="text">[Am]Učení páni [G]zkušení
+[F]já bych vám rád teď [E]podotknul<br />
+[Am]Nikdo z vás nemá [G]tušení<br />
+[F]že v dálce stojí [E]malý úl<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Z něj každé [Am]ráno vylétává včelka [G]Mája
+[F]malá uličnice včelka[E] Mája<br />
+Z něj každé [Am]ráno vylétává včelka[G] Mája<br />
+[F]naše kamarádka včelka [E]Má-ja-ja-ja-ja<br />
+</p>
+<h2>2:</h2>
+<p class="text">Učení páni zkušení
+já bych vám, rád teď podotknul-nul-nul-nul-nul<br />
+Nikdo z vás nemá tušení<br />
+že v dálce stojí malý úl<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Z něj každé ráno vylétává včelka Mája
+malá uličnice včelka Mája<br />
+Z něj každé ráno vylétává Mája<br />
+Má-ja-ja-ja-ja, naše kamarádka včelka Mája<br />
+<br />
+Maja, Maja, Maja, Maja...<br />
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">[C]Až slunce půjde už spát
+[Am]Schová svou červenou líc<br />
+[Dm]Nikdo z vás nemusí znát<br />
+[G]Píseň na dobrou noc<br />
+</p>
+<h2>2:</h2>
+<p class="text">Oheň už začíná plát
+Plameny šlehají výš<br />
+Jiskérky začnou si<br />
+S hvězdami na nebi hrát<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Oheň až louči zažehne
+Oheň dým křídla rozepne<br />
+oheň sloup jisker světlušek rodí<br />
+<br />
+Oheň do noci plápolá<br />
+Oheň vzpomínky zavolá<br />
+Oheň očím tvým nenechá spát<br />
+<br />
+<br />
+<br />
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">[Am]Tak dlouho volal racek [C]do prázdna
+[Em]až z prázdna lásku [D]přivolal<br />
+Ten příboj doplul sem až z dna<br />
+dva racci tančí u mola.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Noc barví moře sametovou tuší
+potom on vzlétne, ona netuší<br />
+zda už ji opustil<br />
+či pro ni hledá bezpečí.<br />
+</p>
+<h2>3:</h2>
+<p class="text">A vše je jedno, vše je dobře
+že moře nikdy nemlčí<br />
+Ránu co nechá jedna vlna<br />
+vždy další vlna vyléčí<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Já a ty, vlna za vlnou
+to moře mává křídly<br />
+Já a ty, vlna za vlnou<br />
+to moře mává křídly<br />
+Já a ty, vlna za vlnou<br />
+to moře mává křídly<br />
+</p>
+<h2>4:</h2>
+<p class="text">Stařičký démon Poseidon
+vidlice místo obočí<br />
+a v očích mořské propasti<br />
+hlídá ať láska, nikdy neotročí<br />
+Ať vlna za vlnou<br />
+nežene srdce do pastí<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+</p>
+
+
+
+<h2>Ref:</h2>
+<p class="text">[Am]Každý ráno boty [G]zouval,
+[Am]orosil si nohy v [G]trávě,<br />
+[Am]že se lidi mají rádi, [G]doufal<br />
+[Am]a proci[Em]tli prá[Am]vě.<br />
+[Am]Každý ráno dlouze [G]zíval,<br />
+[Am]utřel čelo do [G]rukávu,<br />
+[Am]a při chůzi tělem sem tam [G]kýval,<br />
+[Am]před sebou[Em] sta sá[Am]hů.<br />
+</p>
+<h2>1:</h2>
+<p class="text">[C]Poznal [G]Morav[F]ěnku [C]krásnou,
+[Am]a víneč[G]ko ze [C]zlata,<br />
+v [C]Čechách [G]slávu [F]muzik[C]antů,<br />
+[Am]umazan[Em]ou od[Am] bláta.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>2:</h2>
+<p class="text">Toužil najít studánečku,
+a do ní se podívat,<br />
+by mu řekla proč holečku,<br />
+musíš světem chodívat.<br />
+</p>
+<h2>3:</h2>
+<p class="text">Studánečka promluvila,
+to ses musel nachodit,<br />
+abych já ti pravdu řekla,<br />
+měl ses jindy narodit.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Před sebou sta sáhů.
+Před sebou sta sáhů.<br />
+</p>
+
+
+
+<h2>Ref:</h2>
+<p class="text">Lalalalalálala lalalalalálála
+lalalalalalalá,<br />
+lalalalalálala lalalalalálála<br />
+lalalalalalálala.<br />
+</p>
+<h2>1:</h2>
+<p class="text">[Am]Nebe je modrý a [E]zlatý,
+bílá sluneční [Am]záře,<br />
+[Am]horko a sváteční [E]šaty,<br />
+vřava a zpocený [Am]tváře.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Vím, co se bude dít,
+býk už se v ohradě vzpíná,<br />
+kdo chce, ten může jít,<br />
+já si dám sklenici vína.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">[Dm]Žízeň je veliká, [Am]život mi utíká,
+[E]nechte mě příjemně [Am]snít.<br />
+[Dm]Ve stínu pod fíky [Am]poslouchat slavíky,<br />
+[E]zpívat si s nima a [Am]pít.<br />
+lalalala ...<br />
+</p>
+<h2>3:</h2>
+<p class="text">Ženy jsou krásný a cudný,
+mnohá se ve mně zhlídla.<br />
+Oči jako dvě studny,<br />
+vlasy jak havraní křídla.<br />
+</p>
+<h2>4:</h2>
+<p class="text">Dobře vím, co znamená pád
+do nástrah dívčího klína,<br />
+někdo má pletky rád,<br />
+já radši sklenici vína.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>5:</h2>
+<p class="text">Nebe je modrý a zlatý,
+Ženy krásný a cudný,<br />
+Mantily, sváteční šaty,<br />
+Oči jako dvě studny...Zmoudřel jsem stranou od lidí,<br />
+Jsem jak ta zahrada stinná.<br />
+Kdo chce, ať mi závidí,<br />
+já si dám sklenici vína.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">[Dm]Posvátný je mi každý ráno,
+[Am]když ze sna budí šumící [Dm]les<br />
+[Dm]a když se zvedám s písničkou známou<br />
+[Am]a přezky chřestí o skalnatou [Dm]mez.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">[Dm]Tulácký ráno na kemp se snáší,
+[B]za chvíli půjdem [C]toulat se [F]dál<br />
+[Dm]a vodou z říčky oheň se zháší,<br />
+[B]tak zase půjdem [C]toulat se [Dm]dál.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Posvátný je můj každý večer,
+když oči k ohni vždy vrací se zpět,<br />
+tam mnohý z pánů měl by se kouknout<br />
+a hned by věděl, jakej chcem svět.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>3:</h2>
+<p class="text">Posvátný je mi každý slovo,
+když lesní moudrost a přírodu zná,<br />
+bobříků sílu a odvahu touhy,<br />
+kolik v tom pravdy, však kdo nám ji dá?<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">
+<h2>Ref:</h2>
+<p class="text">
+</p>
+
+
+
+<h2>1:</h2>
+<p class="text">Pod tou sk[D]álou, kde pro[D7]ud řeky sy[G]čí
+a kde č[D]ní červen[H7]ý kamení[Em, A7].<br />
+Žije te[D]n, co mi je[D7]n srdce ni[G]čí<br />
+koho j[D]á ráda m[A7]ám k zblázněn[D]í.<br />
+</p>
+<h2>2, 3, ...</h2>
+<p class="text">Vím, že lásku jak trám lehce slíbí,
+já ho znám, srdce má děravý,<br />
+ale já ho chci mít, mně se líbí,<br />
+bez něj žít už mě dál nebaví.<br />
+<br />
+Často k nám jezdívá s kytkou růží<br />
+nejhezčí z kovbojů v okolí.<br />
+Vestu má ušitou z hadích kůží,<br />
+bitej pás, na něm pár pistolí.<br />
+<br />
+Hned se ptá, jak se mám, jak se daří,<br />
+a kdy prý mu to svý srdce dám?<br />
+Na to já odpovím, že čas maří,<br />
+srdce blíž Červený řeky mám.<br />
+<br />
+Když je tma a jdu spát, noc je černá,<br />
+hlavu mám bolavou závratí,<br />
+ale já přesto dál budu věrná,<br />
+dokud sám se zas k nám nevrátí.<br />
+</p>
+
+
