@@ -171,8 +171,9 @@ namespace Junakord_1._2
                     contents = songHeader + contents;
                     contents = tagContainerStart + contents + tagContainerEnd;
 
-                    
 
+                    textContents = tagPisnickaStart + textContents + tagPisnickaEnd;
+                    textContents = tagSongNameStart + songNum + " " + songName + tagSongNameEnd + '\n' + tagAuthorStart + songAuthor + tagAuthorEnd + '\n' + textContents;                    
 
 
                     Console.WriteLine("Contets after edit");
@@ -209,7 +210,7 @@ namespace Junakord_1._2
                 Console.WriteLine(songText);
 
                 string[] songParagraphs = songText.Split('(');
-                string[] textParagraphs = new string[songParagraphs.Length+1];
+                string[] textParagraphs = new string[songParagraphs.Length + 1];
 
                 int noP = songParagraphs.Length;
                 Console.WriteLine("NUMBER of paragraphs: ");
@@ -237,7 +238,7 @@ namespace Junakord_1._2
                         //vvvvvvvvvvvvvvvvvvvvvvvvv
 
                         for (int j = 0; j < songLines.Length; j++)
-                        {                           
+                        {
                             songLines[j] = songLines[j].TrimEnd();
                             songLineHasChords[j] = songLines[j].Contains("[");  // determines if line has chords
                         }
@@ -251,17 +252,21 @@ namespace Junakord_1._2
                             songLines[0] = songLines[0].Replace(")", tagHeaderEnd);
                             Console.WriteLine("Header: " + songLines[0]);
 
-                           
+
                             // siple text lines
                             for (int l = 0; l < songLines.Length; l++)
                             {
                                 if (l == 1)
                                 {
-                                    textLines[l] = tagTextNoChordStart + songLines[l];
+                                    textLines[l] = tagTextNoChordStart + songLines[l] + tagLineBreak;
                                 }
                                 else if (l == songLines.Length - 1)
                                 {
                                     textLines[l] = songLines[l] + tagTextEnd;
+                                }
+                                else if (l == songLines.Length - 2)
+                                {
+                                    textLines[l] = songLines[l];
                                 }
                                 else if (l == 0)
                                 {
@@ -274,12 +279,12 @@ namespace Junakord_1._2
                                 }
                             }
 
-                           
+
 
 
                             if (songLines.Length > 1)
                             {
-                                if(songLines.Length > 2) // multiple lines
+                                if (songLines.Length > 2) // multiple lines
                                 {
                                     for (int c = 1; c < songLines.Length; c++)
                                     {
@@ -358,7 +363,7 @@ namespace Junakord_1._2
                                 Console.WriteLine("Just Header");
                                 Console.WriteLine("!!!");
                                 Console.WriteLine();
-                            }                           
+                            }
                         }
                         else // no lines
                         {
@@ -390,7 +395,18 @@ namespace Junakord_1._2
                 newText = newText.Replace("[", tagChordStart);
                 newText = newText.Replace("]", tagChordEnd);
 
-                textContents = simpleText;
+                string[] chordRemovalArray = simpleText.Split('[');
+                simpleText = "";
+
+                for (int o = 0; o < chordRemovalArray.Length; o++)
+                {
+                    string[] chordSplitArray = chordRemovalArray[o].Split(']');
+                    if (chordSplitArray.Length > 1) simpleText += chordSplitArray[1];
+                    else simpleText += chordSplitArray[0];
+                }
+
+
+                    textContents = simpleText;
                 return newText;
 
 
