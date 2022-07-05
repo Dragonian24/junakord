@@ -10,15 +10,18 @@ body {
 
 p {
 	margin: 0px;
+	page-break-inside: avoid;
 }
 
 .pisnicka {
 	position: relative;
-	top: -50px;
 }
 
 @media print {
 	.container {
+		break-inside: avoid;
+	}
+	p {
 		break-inside: avoid;
 	}
 }

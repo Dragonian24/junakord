@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{98B5AE0F-1B79-4A6F-B25F-733457C4BD43}|Default">
+  <MonoDevelop.Ide.ItemProperties.Junakord_2201.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Junakord 1.2/bin/Debug/konvertovano/zpevnikText.html">
+    <Files>
+      <File FileName="Junakord 1.2/Program.cs" Line="186" Column="87" />
+      <File FileName="Junakord 1.2/bin/Debug/konvertovano/style.css" Line="17" Column="21" />
+      <File FileName="Junakord 1.2/bin/Debug/konvertovano/zpevnik.html" Line="12" Column="5" />
+      <File FileName="Junakord 1.2/bin/Debug/konvertovano/zpevnikText.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Junakord 1.2" expanded="True">
+            <Node name="Junakord 1.2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

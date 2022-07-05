@@ -1,128 +1,565 @@
-<div class="container"><h1>1 Bláznova ukolébavka</h1>
-<h3>P. Dydovič</h3>
+<div class="container"><h1>1 Oheň</h1>
+<h3>Šárka</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C dur</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Až slunce půjde už spát<br />
+<span class="akord" >Am</span>Schová svou červenou líc<br />
+<span class="akord" >Dm</span>Nikdo z vás nemusí znát<br />
+<span class="akord" >G</span>Píseň na dobrou noc</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Oheň už začíná plát<br />
+Plameny šlehají výš<br />
+Jiskérky začnou si<br />
+S hvězdami na nebi hrát<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Oheň až louči zažehne<br />
+Oheň dým křídla rozepne<br />
+oheň sloup jisker světlušek rodí<br />
+<br />
+Oheň do noci plápolá<br />
+Oheň vzpomínky zavolá<br />
+Oheň očím tvým nenechá spát<br />
+<br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>2 Tygr</h1>
+<h3>Termix</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>ref:</h2>
+<p class="akordy">/: <span class="akord" >Am</span>Tygr, tygr, tygr, tygr,<br />
+<span class="akord" >C</span>sežral prase, sežral prase,<br />
+<span class="akord" >G</span>tygr, tygr, tygr, tygr<br />
+<span class="akord" >Am</span>i s kostma, i s kostma. :/</p>
+<p class="text"></p>
+<h2>1.</h2>
+<p class="text">Jak to vlastně všechno bylo,<br />
+jak to prase kdysi žilo<br />
+jak žilo, jak žilo?<br />
+</p>
+<h2>2.</h2>
+<p class="akordy"><span class="akord" >Am</span>Žilo jedno růžovoučké p<span class="akord" >C</span>rasátko,<br />
+<span class="akord" >G</span>které možná spapáte už <span class="akord" >Am</span>zakrátko.</p>
+<p class="text">Leží nám tu na talíři<br />
+jak to prase hezky hýří.<br />
+Mělo život jako vy,<br />
+taky bylo hladový.<br />
+</p>
+<h2>3.</h2>
+<p class="text">Šunky, párky, jelita,<br />
+nažerem se dosyta.<br />
+Jé to bude papání,<br />
+horší to zpracování…<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>1.</h2>
+<p class="text">Jak to vlastně všechno bylo,<br />
+jak to prase kdysi žilo<br />
+jak žilo, jak žilo? +</p>
+<p class="akordy"><span class="akord" >C</span>jako prase v žitě, jako prase v žitě,<br />
+<span class="akord" >G</span>jako prase v žitě, jako prase v žitě. <span class="akord" >Am</span>Tak žilo.</p>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>3 V Zeleném lese</h1>
+<h3>Jarek Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1.</h2>
+<p class="akordy"><span class="akord" >C</span>V zeleném lese netřeseme se,<br />
+<span class="akord" >D7</span>v zeleném lese <span class="akord" >G7</span>netřeseme se,<br />
+v <span class="akord" >C</span>zeleném lese netřeseme se,<br />
+<span class="akord" >G7</span>třeseme se v<span class="akord" >C</span> lese, kde se <span class="akord" >G7</span>pejsek nes<span class="akord" >C</span>e.</p>
+<p class="text"></p>
+<h2>2...10</h2>
+<p class="text">a, i, o, u, y, au, eu, ou, L + ř<br />
+</p></div></div>
+
+<div class="container"><h1>4 Méďa</h1>
+<h3>Terka Střílkec</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1.</h2>
+<p class="akordy">K<span class="akord" >C</span> Vánocům jsem <span class="akord" >D</span>dostal,<span class="akord" >G</span> nového mé<span class="akord" >Emi</span>ďu,</p>
+<p class="text">já totiž vždycky přál si, plyšového méďu.<br />
+Teď Méďu konečně mám a jmenuje se Béďa.<br />
+</p>
+<h2>stop</h2>
+<p class="text">/: My 2 jsme se spřátelili.... :/ 2x<br />
+</p>
+<h2>2.</h2>
+<p class="text">Zažili jsme si spolu, hodně legrace.<br />
+On sdílel mé radosti, i frustrace.<br />
+Jednou jsem méďu samého na hřišti nechal.<br />
+</p>
+<h2>stop</h2>
+<p class="text">/:A on mi ho, někdo sebral….:/ 2x<br />
+</p>
+<h2>ref:</h2>
+<p class="akordy">/:<span class="akord" >G</span>Já chci <span class="akord" >D</span>zpátky svýho <span class="akord" >C</span>méďu:/ 3x</p>
+<p class="text">….Méďo kde jsi?/Méďo kam jsi šel?/Méďo vrať se!<br />
+</p>
+<h2>3.</h2>
+<p class="text">Tatínek povídal že, z okna viděl pána.<br />
+</p>
+<h2>stop</h2>
+<p class="text">2x Který mi, méďu sebral<br />
+<br />
+Otevřel okno a hlasitě zařval:<br />
+,,Hej ty, toho méďu, okamžitě naval!”<br />
+ten jen mávl rukou, a odjel fárem.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>4.</h2> Naši mi koupili, nového méďu
+<p class="text">ale já jej nechci, já chci jenom Béďu.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>5 Marihuana</h1>
+<h3>neznám</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1.</h2>
+<p class="akordy"><span class="akord" >C</span>Kofola, kofola nápoj pro<span class="akord" >Ami</span> vola<br />
+pro vola nápoj <span class="akord" >G</span>kofola<br />
+jó kofol<span class="akord" >C</span>a</p>
+<p class="text"></p>
+<h2>ref:</h2>
+<p class="akordy"> Marihu<span class="akord" >F</span>áno, moje nejmilejší <span class="akord" >C</span>drógo<br />
+stejně už tě nemám m<span class="akord" >G</span>nógo,<br />
+musím zemř<span class="akord" >C</span>ít</p>
+<p class="text"></p>
+<h2>2, ref, 3, ref, 4...</h2>
+<p class="text">Ponožky, ževjkačka, always vložky, lsd, aceton, ocet<br />
+<br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>6 Hartské údolí</h1>
+<h3>Orleans</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >G</span>Kam se všichni těší, kdo to ví?<br />
+I já to ví<span class="akord" >C</span>m a ty to z<span class="akord" >G</span>náš.</p>
+<p class="text">Tam, kde čeká tábor stanový,</p>
+<p class="akordy">ten přítel n<span class="akord" >D7</span>áš, ten přítel v<span class="akord" >G</span>áš.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Tam v dá<span class="akord" >G7</span>li u Rou<span class="akord" >C</span>denského<br />
+<span class="akord" >D</span>mlýna te<span class="akord" >G</span>če Harta líná,<br />
+<span class="akord" >D</span>v měkké trávě záda nebo<span class="akord" >G</span>lí,<br />
+tam <span class="akord" >G7</span>příboj <span class="akord" >C</span>vlnek a zpěv <span class="akord" >D</span>žabí<br />
+<span class="akord" >H</span>láká nás a <span class="akord" >C</span>vábí,<br />
+<span class="akord" >A</span>tam je naše <span class="akord" >D</span>krásné údol<span class="akord" >G</span>í.</p>
+<p class="text"></p>
+<h2>2.</h2>
+<p class="text">Skautíci si tábor postaví,<br />
+jak žíti v něm si poradí.<br />
+Ožije i náhon bublavý<br />
+o šťastný smích i o mládí.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Přijdou chvíle her i soutěží,<br />
+kdo první byl, kdo poslední?<br />
+O to přece vůbec neběží,<br />
+chcem svorně žít těch 14 dní.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>7 Veď mě dal, cesto má</h1>
+<h3>Poštulka</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: D</p></div><div class="pisnicka" > 
 <h2>1:</h2>
-<p class="akordy"><span class="akord" >D</span>Máš má ovečko <span class="akord" >A</span>dávno spát, <span class="akord" >G</span>i píseň ptáků <span class="akord" >D</span>končí<br />
-Kvůli nám přesta<span class="akord" >A</span>l vítr vát, <span class="akord" >G</span>jen můra <span class="akord" >G</span>zírá zvenčí<br />
-<span class="akord" >A</span>Já znám její zášť, tak<span class="akord" >G</span> vyhledej skrýš<br />
-<span class="akord" >A</span>Zas má bílej plášť a v<span class="akord" >G</span> okně je<span class="akord" >A</span> mříž</p>
+<p class="akordy"><span class="akord" >D</span>Někde v dálce <span class="akord" >Hmi</span>cesty končí,<br />
+<span class="akord" >A</span>každá prý však <span class="akord" >G</span>cíl svůj <span class="akord" >D</span>skrývá<br />
+Někde v dálce <span class="akord" >Hmi</span>každá má svůj cíl<br />
+<span class="akord" >A</span>ať je pár chvil dlouhá <span class="akord" >G</span>nebo tisic <span class="akord" >D</span>mil</p>
 <p class="text"></p>
 <h2>Ref:</h2>
-<p class="akordy"><span class="akord" >D</span>Máš má ovečko <span class="akord" >A</span>dávno spát<br />
-<span class="akord" >G</span>A můžeš hřát, ty mě <span class="akord" >E</span>můžeš hřát<br />
-Vždyť <span class="akord" >D</span>přijdou se <span class="akord" >G</span>ptát, zítra zas <span class="akord" >D</span>přijdou se <span class="akord" >G</span>ptát<br />
-Jestli ty v <span class="akord" >D</span>mých předsta<span class="akord" >G</span>vách už<span class="akord" >D</span> mizíš</p>
+<p class="akordy">Veď mě <span class="akord" >D</span>dál, cesto <span class="akord" >A</span>má,<br />
+veď mě <span class="akord" >Hmi</span>dál, vždyť i <span class="akord" >G</span>já<br />
+Tam kde <span class="akord" >D</span>končíš, chtěl bych <span class="akord" >A</span>dojít<br />
+Veď mě <span class="akord" >G</span>dál, cesto <span class="akord" >D</span>má</p>
 <p class="text"></p>
 <h2>2:</h2>
-<p class="text">Máš má ovečko dávno spát, dnes máme půlnoc temnou<br />
-Ráno budou nám bláznům lhát, že ráda snídáš se mnou<br />
-Proč měl bych jim lhát, že jsem tady sám<br />
-Když Tebe mám rád, když Tebe tu mám<br />
+<p class="text">Chodím dlouho po všech cestách,<br />
+všechny znám je, jen ta má mi zbývá<br />
+Je jak dívky co jsem měl tak rád<br />
+Plná žáru bývá, hned zas samý chlad<br />
 </p>
 <h2>Ref:</h2>
+<p class="text"></p>
+<h2>Bridge:</h2>
+<p class="akordy"><span class="akord" >Hmi</span>Pak na <span class="akord" >A</span>patník <span class="akord" >D</span>poslední<br />
+napíšu křídou <span class="akord" >G</span>jméno své<br />
+A pod <span class="akord" >D</span>něj, že jsem <span class="akord" >A</span>žil <span class="akord" >D</span>hrozně <span class="akord" >A</span>rád<br />
+<span class="akord" >Hmi</span> Písně své, co mi <span class="akord" >B</span>v kapsách zbydou<br />
+<span class="akord" >G</span>Dám si bandou <span class="akord" >D</span>cvrčků hrát<br />
+A <span class="akord" >A</span> půjdu spát, půjdu <span class="akord" >A7</span>spát</p>
 <p class="text"></p>
 <h2>Ref:</h2>
 <p class="text"></p></div></div>
 
-<div class="container"><h1>2 Buráky</h1>
-<h3>J. Fallada</h3>
-<div class="keychart" > <p class="key" > Capo: X</p>
-<p class="key" > Key: D dur</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="akordy">Když <span class="akord" >D</span>sever válčí s jihem a <span class="akord" >G</span>zem jde do válk<span class="akord" >D</span>y,<br />
-na polích místo bavlny teď <span class="akord" >E</span>rostou bodlák<span class="akord" >A7</span>y.<br />
-Ve <span class="akord" >D</span>stínu u silnice vidíš z <span class="akord" >G</span>jihu voják<span class="akord" >D</span>y,<br />
-válejí se klidně a lou<span class="akord" >A7</span>skaj buráky<span class="akord" >D</span>.</p>
-<p class="text"></p>
-<h2>ref:</h2>
-<p class="akordy"><span class="akord" >D</span>Hej hou, hej hou, nač <span class="akord" >G</span>chodit do válk<span class="akord" >D</span>y,<br />
-je lepší doma sedět a lous<span class="akord" >E</span>kat burák<span class="akord" >A7</span>y.<br />
-Hej h<span class="akord" >D</span>ou, hej hou, nač ch<span class="akord" >G</span>odit do válk<span class="akord" >D</span>y,<br />
-je lepší doma sedět a lo<span class="akord" >A7</span>upat bur<span class="akord" >D</span>áky.</p>
-<p class="text"></p>
-<h2>2:</h2>
-<p class="text">Plukovník je v sedle volá Yenkyové jdou,<br />
-mužstvo stále křičí, že dál už nemohou.<br />
-Plukovník se otočí a koukne do dálky<br />
-jak jeho slavná milice teď louská buráky.<br />
-</p>
-<h2>ref:</h2>
-<p class="text"></p>
-<h2>3:</h2>
-<p class="text">Až tahle válka skončí a my zas budem žít,<br />
-své milenky a ženy zas půjdem políbit.<br />
-Pak zeptaj se tě: „Hrdino, cos dělal za války?“<br />
-„Já flákal jsem se s kvérem a louskal buráky.“<br />
-</p>
-<h2>ref:</h2>
-<p class="text"></p></div></div>
-
-<div class="container"><h1>3 Chajda malá</h1>
-<h3>neznámý</h3>
+<div class="container"><h1>8 Mája</h1>
+<h3>Nighwork</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: A</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="text">/:V dáli za horama stojí chajda malá:/<br />
-</p></div></div>
-
-<div class="container"><h1>4 Ho Ho Watanay</h1>
-<h3>Lohonka Žalman</h3>
-<div class="keychart" > <p class="key" > Capo: X</p>
-<p class="key" > Key: D dur</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="akordy">Sp<span class="akord" >D</span>inkej můj maličký,<br />
-má<span class="akord" >C</span>š v očích h<span class="akord" >D</span>vězdičky,<br />
-dám Ti je d<span class="akord" >C</span>o vlasů,<br />
-tak u<span class="akord" >G</span>sínej, tak us<span class="akord" >D</span>ínej.</p>
+<h2>pre:</h2>
+<p class="akordy"><span class="akord" >Am</span>Maja, <span class="akord" >G</span>Maja, <span class="akord" >F</span>Maja, <span class="akord" >E</span>Maja...</p>
 <p class="text"></p>
-<h2>ref:</h2>
-<p class="akordy"><span class="akord" >D</span>Ho ho Watanay, h<span class="akord" >C</span>o ho W<span class="akord" >D</span>atanay,<br />
-ho ho <span class="akord" >C</span>Watanay, Kio<span class="akord" >G</span>kena, Ki<span class="akord" >D</span>okena.</p>
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >Am</span>Učení páni <span class="akord" >G</span>zkušení<br />
+<span class="akord" >F</span>já bych vám rád teď <span class="akord" >E</span>podotknul<br />
+<span class="akord" >Am</span>Nikdo z vás nemá <span class="akord" >G</span>tušení<br />
+<span class="akord" >F</span>že v dálce stojí <span class="akord" >E</span>malý úl</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Z něj každé <span class="akord" >Am</span>ráno vylétává včelka <span class="akord" >G</span>Mája<br />
+<span class="akord" >F</span>malá uličnice včelka<span class="akord" >E</span> Mája<br />
+Z něj každé <span class="akord" >Am</span>ráno vylétává včelka<span class="akord" >G</span> Mája<br />
+<span class="akord" >F</span>naše kamarádka včelka <span class="akord" >E</span>Má-ja-ja-ja-ja</p>
 <p class="text"></p>
 <h2>2:</h2>
-<p class="text">Sladkou vůni nese ti noční motýl z perleti,<br />
-vánek ho kolíbá, už usíná, už usíná.<br />
+<p class="text">Učení páni zkušení<br />
+já bych vám, rád teď podotknul-nul-nul-nul-nul<br />
+Nikdo z vás nemá tušení<br />
+že v dálce stojí malý úl<br />
 </p>
-<h2>ref:</h2>
+<h2>Ref:</h2>
+<p class="text">Z něj každé ráno vylétává včelka Mája<br />
+malá uličnice včelka Mája<br />
+Z něj každé ráno vylétává Mája<br />
+Má-ja-ja-ja-ja, naše kamarádka včelka Mája<br />
+<br />
+Maja, Maja, Maja, Maja...<br />
+</p></div></div>
+
+<div class="container"><h1>9 Batalion</h1>
+<h3>Starofrancouzská</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>Pre:</h2>
+<p class="akordy">Vín<span class="akord" >Am</span>o má<span class="akord" >C</span>š a <span class="akord" >G</span>markytán<span class="akord" >Am</span>ku,<br />
+dlouhá no<span class="akord" >C</span>c s<span class="akord" >G</span>e p<span class="akord" >Am</span>roh<span class="akord" >Em</span>ýř<span class="akord" >Am</span>í.</p>
+<p class="text">Víno máš a chvilku spánku,<br />
+díky, díky verbíři.<br />
+</p>
+<h2>1:</h2>
+<p class="akordy">Dř<span class="akord" >Am</span>íve než se rozední,<br />
+kapitán k ose<span class="akord" >C</span>dlání roz<span class="akord" >G</span>kaz <span class="akord" >Am</span>dá<span class="akord" >Em</span>vá,<br />
+o<span class="akord" >Am</span>struhami do slabin kon<span class="akord" >G</span>ě <span class="akord" >Am</span>po<span class="akord" >Em</span>hán<span class="akord" >Am</span>í.</p>
+<p class="text"><br />
+Tam na straně polední,<br />
+čekají ženy, zlaťáky a sláva,<br />
+do výstřelů z karabin zvon už vyzvání..<br />
+</p>
+<h2>Ref: /jako pre/</h2>
+<p class="text">Víno na kuráž a pomilovat markytánku,<br />
+zítra do Burgund Batalion zamíří.<br />
+Víno na kuráž a k ránu dvě hodinky spánku,<br />
+díky, díky Vám královští verbíři.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Rozprášen je Batalion,<br />
+poslední vojáci se k zemi hroutí,<br />
+na polštáři z kopretin budou věčně spát.<br />
+Neplač sladká Marion,<br />
+verbíři nové chlapce přivedou ti,<br />
+za královský hermelín padne každý rád.<br />
+</p>
+<h2>Ref+=pre</h2>
 <p class="text"></p>
-<h2>3:</h2>
-<p class="text">V lukách to zavoní, rád jezdíš na koni,<br />
-má barvu havraní, jak uhání, jak uhání.<br />
-</p>
-<h2>ref:</h2>
-<p class="text"></p>
-<h2>4:</h2>
-<p class="text">V dlani motýl usíná, hvězdička už zhasíná,<br />
-vánek, co ji k tobě nes‘, až do léta ti odlétá.<br />
-</p>
-<h2>ref:</h2>
+<h2>Pre</h2>
 <p class="text"></p></div></div>
 
-<div class="container"><h1>5 Hruška</h1>
-<h3>Čechomor</h3>
+<div class="container"><h1>10 Anděl</h1>
+<h3>Karel kryl</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Z rozmláce<span class="akord" >Ami</span>nýho kostela,<br />
+<span class="akord" >C</span>v krabici s <span class="akord" >G7</span>kusem mýdla<br />
+<span class="akord" >C</span>přinesl j<span class="akord" >Ami</span>sem si anděla<br />
+<span class="akord" >C</span>polámali<span class="akord" >G7</span> mu kříd<span class="akord" >C</span>la..</p>
+<p class="text"><br />
+Díval se na mě oddaně<br />
+Já měl jsem trochu trému<br />
+Tak vtiskl jsem mu do dlaně<br />
+Lahvičku od parfému<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >C</span>A proto <span class="akord" >Ami</span>prosím věř mi<br />
+<span class="akord" >C</span>chtěl jsem ho <span class="akord" >G7</span>žádat<br />
+<span class="akord" >C</span>aby mi <span class="akord" >Ami</span>mezi dveřmi<br />
+<span class="akord" >C</span>pomohl <span class="akord" >G7</span>hádat<br />
+<span class="akord" >C</span>co mě čeká<span class="akord" >Ami</span><span class="akord" >G7</span>a nemi<span class="akord" >C</span>ne..<br />
+<span class="akord" >C</span>co mě čeká<span class="akord" >Ami</span><span class="akord" >G</span>a nemi<span class="akord" >C</span>ne..</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Pak hlídali sme oblohu,<br />
+pozorujíce ptáky<br />
+debatujíce o Bohu<br />
+a hraní na vojáky..<br />
+<br />
+Do tváře jsem mu neviděl<br />
+pokoušel si ji schovat<br />
+to asi ptákum záviděl,<br />
+že mohou poletovat..<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Když novinky mi sděloval<br />
+u okna do ložnice<br />
+já krídla jsem mu ukoval<br />
+z mosazný nábojnice<br />
+<br />
+A tak jsem pozbyl anděla,<br />
+on oknem odletěl mi..<br />
+Však přítel, prý mi udělá<br />
+nového z mojí helmy..<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>11 Bedna od whisky</h1>
+<h3>Miki Ryvola</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Dn<span class="akord" >Am</span>eska už mi fó<span class="akord" >C</span>ry ňák ne<span class="akord" >A</span>jdou přes pys<span class="akord" >E</span>ky,<br />
+sto<span class="akord" >Am</span>jím s dlouhou k<span class="akord" >C</span>ravatou na be<span class="akord" >Am</span>dně o<span class="akord" >E</span>d whi<span class="akord" >Am</span>sky.</p>
+<p class="text">Stojím s dlouhým obojkem, jak stájovej pinč,</p>
+<p class="akordy">tu kravatu co nosím mi navlík soudce Lynč.<span class="akord" >A</span></p>
+<p class="text"></p>
+<h2>Ref: /A dur</h2>
+<p class="akordy">Ta<span class="akord" >A</span>k kopni do tý b<span class="akord" >D</span>edny, ať p<span class="akord" >E</span>anstvo neče<span class="akord" >A</span>ká,</p>
+<p class="text">jsou dlouhý schody do nebe a štreka daleká.<br />
+Do nebeskýho báru, já sucho v krku mám,</p>
+<p class="akordy">tak kopni do tý bedny, ať na cestu se dám.<span class="akord" >Am</span></p>
+<p class="text">Hou,hou...<br />
+</p>
+<h2>2:</h2>
+<p class="text">Mít tak všechny bedny od whisky vypitý,<br />
+postavil bych malej dům na louce ukrytý.<br />
+Postavil bych malej dům a z vokna koukal ven<br />
+a chlastal bych tam s Billem a chlastal by tam Ben.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Kdyby si se hochu jen pořád nechtěl rvát,<br />
+nemusel jsi dneska na týhle bedně stát.<br />
+Moh si někde v suchu tu svojí whisky pít,<br />
+nemusel jsi dneska na krku laso mít.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Až kopneš do tý bedny, jak se to dělává,<br />
+do krku mi vostane jen dírka mrňavá.<br />
+Jenom dírka mrňavá a k smrti jenom krok,<br />
+mám to smutnej konec a whisky ani lok.<br />
+</p>
+<h2>Ref</h2>
+<p class="text">...tak kopni do tý bedny.<br />
+</p></div></div>
+
+<div class="container"><h1>12 Hlídač krav</h1>
+<h3>Jaromír nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1</h2>
+<p class="akordy"><span class="akord" >C</span>Když jsem byl malý, říkali mi naši:</p>
+<p class="text">"Dobře se uč a jez chytrou kaši,</p>
+<p class="akordy"><span class="akord" >F</span>až jednou vyrosteš, <span class="akord" >G</span>budeš doktorem <span class="akord" >C</span>práv,<br />
+<span class="akord" >C</span>takový doktor sedí pěkně v suchu,</p>
+<p class="text">bere velký peníze a škrábe se v uchu,"</p>
+<p class="akordy"><span class="akord" >F</span>já jim ale na to řek':"<span class="akord" >G</span>Chci být hlídačem k<span class="akord" >C</span>rav."</p>
+<p class="text"></p>
+<h2>ref:</h2>
+<p class="akordy">Já chci <span class="akord" >C</span>mít čapku s bambulí nahoře,<br />
+<span class="akord" >C</span>jíst kaštany a mýt se v lavoře,<br />
+<span class="akord" >F</span>od rána po celý d<span class="akord" >G</span>en zpívat si <span class="akord" >C</span>jen,<br />
+zpívat si: <span class="akord" >C</span>pam pam pam <span class="akord" >F,G,C</span>...</p>
+<p class="text"></p>
+<h2>2</h2>
+<p class="text">K vánocům mi kupovali hromady knih,<br />
+co jsem ale vědět chtěl, to nevyčet' jsem z nich:<br />
+nikde jsem se nedozvěděl, jak se hlídají krávy,<br />
+ptal jsem se starších a ptal jsem se všech,<br />
+každý na mě hleděl jako na pytel blech,<br />
+každý se mě opatrně tázal na moje zdraví.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>3</h2>
+<p class="text">Dnes už jsem starší a vím, co vím,<br />
+mnohé věci nemůžu a mnohé smím,<br />
+a když je mi velmi smutno, lehnu si do mokré trávy,<br />
+s nohama křížem a s rukama za hlavou<br />
+koukám nahoru na oblohu modravou,<br />
+kde se mezi mraky honí moje strakaté krávy.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"><br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>13 Parta z ranče ypsilon</h1>
+<h3>neznámý</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: D</p></div><div class="pisnicka" > 
 <h2>1:</h2>
-<p class="akordy">Sto<span class="akord" >D</span>jí hruška v <span class="akord" >A</span>širém poli<br />
-vrš<span class="akord" >D</span>ek se jí <span class="akord" >G</span>zele<span class="akord" >A</span>ná<br />
-/: pod<span class="akord" >D</span> ní se <span class="akord" >G</span>pase k<span class="akord" >A</span>ůň vra<span class="akord" >D</span>ný<br />
-pase ho <span class="akord" >A</span>má <span class="akord" >D</span>milá :/</p>
+<p class="akordy">/:Ka<span class="akord" >D</span>ždé ráno s<span class="akord" >G</span>jíždí z hor ta p<span class="akord" >D</span>arta z ranče ypsil<span class="akord" >A7</span>on,:/<br />
+/:Me<span class="akord" >D</span>zi Nima jede na <span class="akord" >G</span>koni ken ko<span class="akord" >D</span>vboj jmén<span class="akord" >A7</span>em Joh<span class="akord" >D</span>n:/</p>
 <p class="text"></p>
 <h2>2:</h2>
-<p class="text">Proč má milá dnes pasete<br />
-z večera do rána<br />
-/: kam můj milý pojedete<br />
-já pojedu s váma :/<br />
+<p class="text">Tam dole, tam dole u řeky<br />
+stojí opuštěnej srub,<br />
+nedávno tam ještě bývala<br />
+má plavovlasá Ruth.<br />
 </p>
 <h2>3:</h2>
-<p class="text">ó já pojedu daleko<br />
-přes vody hluboké<br />
-/: kéž bych byl nikdy nepoznal<br />
-panny černooké :/<br />
+<p class="text">Co asi stalo se<br />
+s mojí plavovlasou Ruth,<br />
+co asi stalo se,<br />
+že opustila srub.<br />
+</p>
+<h2>4:</h2>
+<p class="text">Vrátíš-li se jednou zpět,<br />
+tak přijď se na mě podívat,<br />
+tebe, moje plavovlasá Ruth,<br />
+budu mít stále rád.<br />
+</p>
+<h2>5:</h2>
+<p class="text">Tam dole u řeky<br />
+stojí opuštěnej strom,<br />
+nedávno se na něm oběsil<br />
+ten kovboj jménem John.<br />
 </p></div></div>
 
-<div class="container"><h1>6 Jdou po mě jdou</h1>
+<div class="container"><h1>14 Franky Dlouhán</h1>
+<h3>Nedvěd</h3>
+<div class="keychart" > <p class="key" > Capo: O</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Kolik je smutného,<br />
+když <span class="akord" >F</span>mraky černé <span class="akord" >C</span>jdou<br />
+lidem nad <span class="akord" >G</span>hlavou <span class="akord" >F</span>smutnou dálavou<span class="akord" >C</span>.</p>
+<p class="text">Já slyšel příběh, který velkou pravdu měl,<br />
+za čas odletěl, každý zapomněl.<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >C</span>Měl kapsu <span class="akord" >G</span>prázdnou Franky Dlouhán,<br />
+po státech <span class="akord" >F</span>toulal se jen <span class="akord" >C</span>sám a že<br />
+byl <span class="akord" >F</span>veselej, tak <span class="akord" >C</span>každej měl ho <span class="akord" >G7</span>rád.<br />
+Tam ruce k <span class="akord" >F</span>dílu mlčky přiloží a <span class="akord" >C</span>zase<br />
+jede <span class="akord" >Ami</span>dál. A <span class="akord" >F</span>každej kdo s ním<br />
+<span class="akord" >G</span>chvilku byl, tak <span class="akord" >F</span>dlouho <span class="akord" >G7</span>se pak <span class="akord" >C</span>smál.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Tam kde byl plač tam Franky hezkou píseň měl<br />
+slzy neměl rád, chtěl se jenom smát.<br />
+A když pak večer ranče tiše usínaj<br />
+Frankův zpěv jde dál nocí s písní dál ...<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Tak Frankyho vám jednou našli, přestal žít,<br />
+jeho srdce spí, tiše smutně spí.<br />
+Bůh ví jak, za co tenhle smíšek konec měl,<br />
+farář píseň pěl, umíraček zněl ...<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>15 Dej mi víc své lásky</h1>
+<h3>Janda, Chrastina</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Vym<span class="akord" >Em</span>yslel jsem spoustu nápadů a h<span class="akord" >G</span>ůů<br />
+Co <span class="akord" >Em</span>podporujou hloupou nála<span class="akord" >D</span>du a h<span class="akord" >H7</span>ůů<br />
+H<span class="akord" >Em</span>odit klíče do kanálu<br />
+Sj<span class="akord" >A</span>et po zadku ho<span class="akord" >Am</span>lou skálu<br />
+V n<span class="akord" >Em</span>oci chodit st<span class="akord" >H7</span>rašit do hra<span class="akord" >Em</span>du</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Dám si dvoje housle pod bradu a hůů<br />
+V bílé plachtě chodím pozadu a hůů<br />
+Úplně melancholicky<br />
+S citem pro věc jako vždycky</p>
+<p class="akordy">Vyrábím tu hradní záhadu<span class="akord" >D7</span></p>
+<p class="text"></p>
+<h2>Ref:</h2>S
+<p class="akordy">M<span class="akord" >G</span>á drahá dej mi víc<br />
+M<span class="akord" >H7</span>á drahá dej mi víc<br />
+M<span class="akord" >Em</span>á drahá de<span class="akord" >C</span>j mi víc své <span class="akord" >G</span>lásky a h<span class="akord" >Dý</span>ůů<br />
+J<span class="akord" >G</span>á nechci skoro nic<br />
+J<span class="akord" >H7</span>á nechci skoro nic<br />
+J<span class="akord" >Em</span>á chci jen p<span class="akord" >C</span>ohladit tvé v<span class="akord" >G</span>lásky a hů<span class="akord" >H7</span>ů</p>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Nejlepší z těch divnejch nápadů a hůů<br />
+Mi dokonale zvednul náladu hůů<br />
+Natrhám ti sedmikrásky<br />
+Tebe celou s tvými vlásky<br />
+Zamknu si na sedm západů<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>16 Červená řeka</h1>
+<h3>Ivo Fisher</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: D dur</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Pod tou sk<span class="akord" >D</span>álou, kde pro<span class="akord" >D7</span>ud řeky sy<span class="akord" >G</span>čí<br />
+a kde č<span class="akord" >D</span>ní červen<span class="akord" >H7</span>ý kamení<span class="akord" >Em, A7</span>.<br />
+Žije te<span class="akord" >D</span>n, co mi je<span class="akord" >D7</span>n srdce ni<span class="akord" >G</span>čí<br />
+koho j<span class="akord" >D</span>á ráda m<span class="akord" >A7</span>ám k zblázněn<span class="akord" >D</span>í.</p>
+<p class="text"></p>
+<h2>2, 3, ...</h2>
+<p class="text">Vím, že lásku jak trám lehce slíbí,<br />
+já ho znám, srdce má děravý,<br />
+ale já ho chci mít, mně se líbí,<br />
+bez něj žít už mě dál nebaví.<br />
+<br />
+Často k nám jezdívá s kytkou růží<br />
+nejhezčí z kovbojů v okolí.<br />
+Vestu má ušitou z hadích kůží,<br />
+bitej pás, na něm pár pistolí.<br />
+<br />
+Hned se ptá, jak se mám, jak se daří,<br />
+a kdy prý mu to svý srdce dám?<br />
+Na to já odpovím, že čas maří,<br />
+srdce blíž Červený řeky mám.<br />
+<br />
+Když je tma a jdu spát, noc je černá,<br />
+hlavu mám bolavou závratí,<br />
+ale já přesto dál budu věrná,<br />
+dokud sám se zas k nám nevrátí.<br />
+</p></div></div>
+
+<div class="container"><h1>17 Jdou po mě jdou</h1>
 <h3>J. Nohavica</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: C</p></div><div class="pisnicka" > 
@@ -168,63 +605,7 @@ Já na ně mastím, jen ať mají vztek. :/<br />
 <h2>Ref:</h2>
 <p class="text"></p></div></div>
 
-<div class="container"><h1>7 Kometa</h1>
-<h3>J. Nohavica</h3>
-<div class="keychart" > <p class="key" > Capo: 0</p>
-<p class="key" > Key: A</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="akordy"><span class="akord" >Am</span>Spatřil jsem kometu oblohou letěla</p>
-<p class="text">chtěl jsem jí zazpívat ona mi zmizela</p>
-<p class="akordy"><span class="akord" >Dm</span>zmizela jako laň <span class="akord" >G7</span>u lesa v remízku<br />
-v <span class="akord" >C</span>očích mi zbylo jen <span class="akord" >E7</span>pár žlutých penízků</p>
-<p class="text"></p>
-<h2>2:</h2>
-<p class="text">Penízky ukryl jsem do hlíny pod dubem<br />
-až příště přiletí my už tu nebudem<br />
-my už tu nebudem ach pýcho marnivá<br />
-spatřil jsem kometu chtěl jsem jí zazpívat<br />
-</p>
-<h2>Ref:</h2>
-<p class="akordy"><span class="akord" >Am</span>O vodě o trávě <span class="akord" >Dm</span>o lese<br />
-<span class="akord" >G7</span>o smrti se kterou smířit <span class="akord" >C</span>nejde se<span class="akord" >E7</span><br />
-<span class="akord" >Am</span>o lásce o zradě <span class="akord" >Dm</span>o světě<br />
-<span class="akord" >E</span>a o všech lidech co kdy<span class="akord" >E7</span> žili na téhle plan<span class="akord" >Am</span>etě</p>
-<p class="text"></p>
-<h2>3:</h2>
-<p class="text">Na hvězdném nádraží cinkají vagóny<br />
-pan Kepler rozepsal nebeské zákony<br />
-hledal až nalezl v hvězdářských triedrech<br />
-tajemství která teď neseme na bedrech<br />
-</p>
-<h2>4:</h2>
-<p class="text">Velká a odvěká tajemství přírody<br />
-že jenom z člověka člověk se narodí<br />
-že kořen s větvemi ve strom se spojuje<br />
-krev našich nadějí vesmírem putuje<br />
-</p>
-<h2>Ref:</h2>
-<p class="text">na na na ...<br />
-</p>
-<h2>5:</h2>
-<p class="text">Spatřil jsem kometu byla jak reliéf<br />
-zpod rukou umělce který už nežije<br />
-šplhal jsem do nebe chtěl jsem ji osahat<br />
-marnost mě vysvlékla celého donaha<br />
-</p>
-<h2>6:</h2>
-<p class="text">Jak socha Davida z bílého mramoru<br />
-stál jsem a hleděl jsem hleděl jsem nahoru<br />
-až příště přiletí ach pýcho marnivá<br />
-my už tu nebudem ale jiný jí zazpívá<br />
-</p>
-<h2>Ref:</h2>
-<p class="text">O vodě o trávě o lese<br />
-o smrti se kterou smířit nejde se<br />
-o lásce o zradě o světě<br />
-bude to písnička o nás a kometě<br />
-</p></div></div>
-
-<div class="container"><h1>8 Mezi horami</h1>
+<div class="container"><h1>18 Mezi horami</h1>
 <h3>Čechomor</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: A</p></div><div class="pisnicka" > 
@@ -250,142 +631,272 @@ dobrá Anička :/<br />
 <br />
 </p></div></div>
 
-<div class="container"><h1>9 Mravenčí ukolébavka</h1>
-<h3>Z. Svěrák, J. Uhlíř</h3>
+<div class="container"><h1>19 Kozel</h1>
+<h3>Jarek Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1.</h2>
+<p class="akordy">Byl jeden <span class="akord" >G</span>pán, ten kozla <span class="akord" >C</span>měl,<br />
+velice s<span class="akord" >D</span>i s ním rozum<span class="akord" >G</span>ěl,<br />
+měl ho moc <span class="akord" >G</span>rád, opravdu m<span class="akord" >C</span>oc,<br />
+hladil mu f<span class="akord" >D</span>ous na dobrou n<span class="akord" >G</span>oc.</p>
+<p class="text"></p>
+<h2>2.</h2>
+<p class="text">Jednoho dne se kozel splet',<br />
+rudé tričko pánovi sněd',<br />
+jak to pán zřel, zařval "jéjé",<br />
+svázal kozla na koleje.<br />
+</p>
+<h2>3.</h2>
+<p class="text">Zahoukal vlak, kozel se lek':<br />
+"to je má smrt", mečel "mek, mek",<br />
+jak tak mečel, vykašlal pak<br />
+rudé tričko, čímž stopnul vlak.<br />
+<br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>20 Grónská písnička</h1>
+<h3>Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >D</span>Daleko na <span class="akord" >Emi</span>severu je <span class="akord" >A</span>Grónská <span class="akord" >D</span>zem,<br />
+<span class="akord" >D</span>žije tam <span class="akord" >Emi</span>Eskymačka s <span class="akord" >A</span>Eskymá<span class="akord" >D</span>kem,<br />
+<span class="akord" >D</span>my bychom <span class="akord" >Emi</span>umrzli, jim <span class="akord" >G</span>není zima,<span class="akord" >D</span><br />
+snídají <span class="akord" >Emi</span>nanuky <span class="akord" >A</span>a eskima. <span class="akord" >D</span><br />
+<span class="akord" >D</span>my bychom <span class="akord" >Emi</span>umrzli, jim <span class="akord" >G</span>není zima,<span class="akord" >D</span><br />
+snídají <span class="akord" >Emi</span>nanuky <span class="akord" >A</span>a eskima. <span class="akord" >D</span></p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Mají se bezvadně, vyspí se moc,<br />
+půl roku trvá tam polární noc,<br />
+na jaře vzbudí se a vyběhnou ven,<br />
+půl roku trvá tam polární den.<br />
+</p>
+<h2>3:</h2>
+<p class="text">Když sněhu napadne nad kotníky,<br />
+hrávají s medvědy na četníky,<br />
+medvědi těžko jsou k poražení,<br />
+neboť medvědy ve sněhu vidět není.<br />
+</p>
+<h2>4:</h2>
+<p class="text">Pokaždé ve středu, přesně ve dvě<br />
+zaklepe na na íglů hlavní medvěd:<br />
+"Dobrý den, mohu dál na vteřinu?<br />
+Nesu vám trochu ryb na svačinu."<br />
+</p>
+<h2>5:</h2>
+<p class="text">V kotlíku bublá čaj, kamna hřejí,<br />
+psi venku hlídají před zloději,<br />
+smíchem se otřásá celé íglů,<br />
+medvěd jim předvádí spoustu fíglů.<br />
+</p>
+<h2>6:</h2>
+<p class="text">Tak žijou vesele na severu,<br />
+srandu si dělají z teploměrů,<br />
+my bychom umrzli, jim není zima,<br />
+neboť jsou doma a mezi svýma.<br />
+</p></div></div>
+
+<div class="container"><h1>21 Buráky</h1>
+<h3>J. Fallada</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: D dur</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Když <span class="akord" >D</span>sever válčí s jihem a <span class="akord" >G</span>zem jde do válk<span class="akord" >D</span>y,<br />
+na polích místo bavlny teď <span class="akord" >E</span>rostou bodlák<span class="akord" >A7</span>y.<br />
+Ve <span class="akord" >D</span>stínu u silnice vidíš z <span class="akord" >G</span>jihu voják<span class="akord" >D</span>y,<br />
+válejí se klidně a lou<span class="akord" >A7</span>skaj buráky<span class="akord" >D</span>.</p>
+<p class="text"></p>
+<h2>ref:</h2>
+<p class="akordy"><span class="akord" >D</span>Hej hou, hej hou, nač <span class="akord" >G</span>chodit do válk<span class="akord" >D</span>y,<br />
+je lepší doma sedět a lous<span class="akord" >E</span>kat burák<span class="akord" >A7</span>y.<br />
+Hej h<span class="akord" >D</span>ou, hej hou, nač ch<span class="akord" >G</span>odit do válk<span class="akord" >D</span>y,<br />
+je lepší doma sedět a lo<span class="akord" >A7</span>upat bur<span class="akord" >D</span>áky.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Plukovník je v sedle volá Yenkyové jdou,<br />
+mužstvo stále křičí, že dál už nemohou.<br />
+Plukovník se otočí a koukne do dálky<br />
+jak jeho slavná milice teď louská buráky.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Až tahle válka skončí a my zas budem žít,<br />
+své milenky a ženy zas půjdem políbit.<br />
+Pak zeptaj se tě: „Hrdino, cos dělal za války?“<br />
+„Já flákal jsem se s kvérem a louskal buráky.“<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>22 Ruty luty arizona, texas</h1>
+<h3>Neznámý</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >A</span>Šinu si to starým Coloradem<br />
+Když v tom slyším výkřik vzdále <span class="akord" >E7</span>ný<br />
+<span class="akord" >A</span>Jel jsem podle <span class="akord" >A7</span>hlasu<br />
+<span class="akord" >D</span>A k svému ú <span class="akord" >Dmi</span>žasu<br />
+<span class="akord" >A</span>Ležel tam už <span class="akord" >E7</span>k zemi skole <span class="akord" >A</span>ný</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >A</span>Ruty šuty Arizona Texas<br />
+Ruty šuty Arizona má <span class="akord" >E7</span>…<br />
+<span class="akord" >A</span>Jel jsem podle <span class="akord" >A7</span>hlasu<br />
+<span class="akord" >D</span>a k svému ú <span class="akord" >Dmi</span>žasu<br />
+<span class="akord" >A</span>ležel tam muž <span class="akord" >E7</span>k zemi skole <span class="akord" >A</span>ný</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">v Skloním se nad jeho obličejem<br />
+Poznal jsem v něm svého dvojníka<br />
+Jeho tělo bylo probodáno nožem<br />
+Teplá krev mu z rány vytéká<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Pravil ke mně hlasem zmírajícím<br />
+"Parde, příteli můj jediný"<br />
+byla to léčka já to nevěděl<br />
+jako starej vůl jsem naletěl<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>23 Tři citrónky</h1>
+<h3>neznámý</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: C</p></div><div class="pisnicka" > 
 <h2>1:</h2>
-<p class="akordy"><span class="akord" >C</span>Slunce šlo <span class="akord" >G</span>spát<br />
-<span class="akord" >F</span>za hromádku <span class="akord" >G</span>klád<br />
-<span class="akord" >C</span>na nebi <span class="akord" >Am</span>hvězdy <span class="akord" >G</span>klíčí.<br />
-<span class="akord" >C</span>Už nepra<span class="akord" >G</span>cuj, mr<span class="akord" >F</span>avenečku<span class="akord" >G</span> můj,<br />
-<span class="akord" >C</span>schovej s<span class="akord" >G</span>e do jehl<span class="akord" >C</span>ičí.</p>
+<p class="akordy">V <span class="akord" >C</span>jedné moř<span class="akord" >Am</span>ské p<span class="akord" >Dm</span>ustin<span class="akord" >G7</span>ě,<br />
+Ztr<span class="akord" >C</span>oskotal pa<span class="akord" >Am</span>rník v h<span class="akord" >Dm</span>lubin<span class="akord" >G7</span>ě<br />
+Jen<span class="akord" >C</span>om tři m<span class="akord" >Am</span>alé c<span class="akord" >Dm</span>itrón<span class="akord" >G7</span>ky<br />
+Zůstaly na hladin<span class="akord" >C</span>ě</p>
 <p class="text"></p>
-<h2>R:</h2>
-<p class="akordy"><span class="akord" >C</span>Máš n<span class="akord" >F</span>ožičky <span class="akord" >C</span>uběh<span class="akord" >G</span>ané,<br />
-<span class="akord" >C</span>den by<span class="akord" >F</span>l tak těž<span class="akord" >G</span>ký.<br />
-<span class="akord" >C</span>Pojď, <span class="akord" >F</span>lůžko máš<span class="akord" >C</span> odestl<span class="akord" >G</span>ané<br />
-<span class="akord" >C</span>v plátku<span class="akord" >F</span> od mace<span class="akord" >C</span>šky.</p>
-<p class="text"></p>
-<h2>2:</h2>
-<p class="text">Spinká a sní<br />
-mravenec lesní<br />
-v hromádce u kapradí.<br />
-Nespinká sám,<br />
-s maminkou je tam,<br />
-tykadlama ho hladí.<br />
+<h2>Ref:</h2>
+<p class="text">Rýbaroba, rýbaroba, rýbaroba čuču,<br />
+Rýbaroba rýbaroba, rýbaroba čuču,<br />
+Rýbaroba rýbaroba, rýbaroba čuču,<br />
+Zůstaly na hladině<br />
 </p>
+<h2>2:</h2>
+<p class="text">Jeden z nich povídá:<br />
+„Přátelé, netvařte se tak kysele,<br />
+vždyť je to přece veselé,<br />
+že nám patří moře celé.“<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
 <h2>3:</h2>
-<p class="text">La-la-la-lá-la-la-la-lá<br />
-la-la-la-la-la-la-lá-lá....<br />
-</p></div></div>
-
-<div class="container"><h1>10 Mája</h1>
-<h3>Nighwork</h3>
-<div class="keychart" > <p class="key" > Capo: 0</p>
-<p class="key" > Key: A</p></div><div class="pisnicka" > 
-<h2>pre:</h2>
-<p class="akordy"><span class="akord" >Am</span>Maja, <span class="akord" >G</span>Maja, <span class="akord" >F</span>Maja, <span class="akord" >E</span>Maja...</p>
-<p class="text"></p>
-<h2>1:</h2>
-<p class="akordy"><span class="akord" >Am</span>Učení páni <span class="akord" >G</span>zkušení<br />
-<span class="akord" >F</span>já bych vám rád teď <span class="akord" >E</span>podotknul<br />
-<span class="akord" >Am</span>Nikdo z vás nemá <span class="akord" >G</span>tušení<br />
-<span class="akord" >F</span>že v dálce stojí <span class="akord" >E</span>malý úl</p>
-<p class="text"></p>
-<h2>Ref:</h2>
-<p class="akordy">Z něj každé <span class="akord" >Am</span>ráno vylétává včelka <span class="akord" >G</span>Mája<br />
-<span class="akord" >F</span>malá uličnice včelka<span class="akord" >E</span> Mája<br />
-Z něj každé <span class="akord" >Am</span>ráno vylétává včelka<span class="akord" >G</span> Mája<br />
-<span class="akord" >F</span>naše kamarádka včelka <span class="akord" >E</span>Má-ja-ja-ja-ja</p>
-<p class="text"></p>
-<h2>2:</h2>
-<p class="text">Učení páni zkušení<br />
-já bych vám, rád teď podotknul-nul-nul-nul-nul<br />
-Nikdo z vás nemá tušení<br />
-že v dálce stojí malý úl<br />
+<p class="text">A tak se citrónky plavily dál,<br />
+jeden jim k tomu na kytaru hrál,<br />
+a tak se plavily do dáli,<br />
+až na ostrov korálový.<br />
 </p>
 <h2>Ref:</h2>
-<p class="text">Z něj každé ráno vylétává včelka Mája<br />
-malá uličnice včelka Mája<br />
-Z něj každé ráno vylétává Mája<br />
-Má-ja-ja-ja-ja, naše kamarádka včelka Mája<br />
-<br />
-Maja, Maja, Maja, Maja...<br />
-</p></div></div>
-
-<div class="container"><h1>11 Oheň</h1>
-<h3>Šárka</h3>
-<div class="keychart" > <p class="key" > Capo: 0</p>
-<p class="key" > Key: C dur</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="akordy"><span class="akord" >C</span>Až slunce půjde už spát<br />
-<span class="akord" >Am</span>Schová svou červenou líc<br />
-<span class="akord" >Dm</span>Nikdo z vás nemusí znát<br />
-<span class="akord" >G</span>Píseň na dobrou noc</p>
 <p class="text"></p>
-<h2>2:</h2>
-<p class="text">Oheň už začíná plát<br />
-Plameny šlehají výš<br />
-Jiskérky začnou si<br />
-S hvězdami na nebi hrát<br />
-</p>
-<h2>Ref:</h2>
-<p class="text">Oheň až louči zažehne<br />
-Oheň dým křídla rozepne<br />
-oheň sloup jisker světlušek rodí<br />
-<br />
-Oheň do noci plápolá<br />
-Oheň vzpomínky zavolá<br />
-Oheň očím tvým nenechá spát<br />
-<br />
-<br />
-<br />
-</p></div></div>
-
-<div class="container"><h1>12 Racci</h1>
-<h3>Cermaque</h3>
-<div class="keychart" > <p class="key" > Capo: 7</p>
-<p class="key" > Key: A</p></div><div class="pisnicka" > 
-<h2>1:</h2>
-<p class="akordy"><span class="akord" >Am</span>Tak dlouho volal racek <span class="akord" >C</span>do prázdna<br />
-<span class="akord" >Em</span>až z prázdna lásku <span class="akord" >D</span>přivolal</p>
-<p class="text">Ten příboj doplul sem až z dna<br />
-dva racci tančí u mola.<br />
-</p>
-<h2>2:</h2>
-<p class="text">Noc barví moře sametovou tuší<br />
-potom on vzlétne, ona netuší<br />
-zda už ji opustil<br />
-či pro ni hledá bezpečí.<br />
-</p>
-<h2>3:</h2>
-<p class="text">A vše je jedno, vše je dobře<br />
-že moře nikdy nemlčí<br />
-Ránu co nechá jedna vlna<br />
-vždy další vlna vyléčí<br />
-</p>
-<h2>Ref:</h2>
-<p class="text">Já a ty, vlna za vlnou<br />
-to moře mává křídly<br />
-Já a ty, vlna za vlnou<br />
-to moře mává křídly<br />
-Já a ty, vlna za vlnou<br />
-to moře mává křídly<br />
-</p>
 <h2>4:</h2>
-<p class="text">Stařičký démon Poseidon<br />
-vidlice místo obočí<br />
-a v očích mořské propasti<br />
-hlídá ať láska, nikdy neotročí<br />
-Ať vlna za vlnou<br />
-nežene srdce do pastí<br />
+<p class="text">Tam je však stihla nehoda zlá,<br />
+byla to mořská příšera,<br />
+sežrala citrónky i s kůrou,<br />
+zakončila tak baladu mou.<br />
 </p>
 <h2>Ref:</h2>
 <p class="text"><br />
 </p></div></div>
 
-<div class="container"><h1>13 Rána v trávě</h1>
+<div class="container"><h1>24 Tisíc mil</h1>
+<h3>Ivo Fisher</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">V nohách má<span class="akord" >G</span>m už tisíc mi<span class="akord" >Em</span>l,<br />
+stopy déš<span class="akord" >Am</span>ť a vítr sm<span class="akord" >C</span>yl<br />
+A můj ků<span class="akord" >Am</span>ň i já jsme ces<span class="akord" >D7</span>tou znav<span class="akord" >G</span>ení</p>
+<p class="text"></p>
+<h2>Ref1:</h2>
+<p class="text">Těch tisíc mil, těch tisíc mil<br />
+Má jeden směr a jeden cíl,<br />
+Bílé dům to malý bílý stavení<br />
+</p>
+<h2>2:</h2>
+<p class="text">Je tam stráň a příkrej sráz,<br />
+modrá tůň a bobří hráz,<br />
+táta s mámou, který věřej dětskejm snům.<br />
+</p>
+<h2>Ref2:</h2>
+<p class="text">Těch tisíc mil, těch tisíc mil,<br />
+má jeden směr a jeden cíl,<br />
+jeden cíl, ten starej, známej, bílej dům.<br />
+</p>
+<h2>3:</h2>
+<p class="text">V nohách mám už tisíc mil,<br />
+teď mi zbývá jen pár chvil,<br />
+cestu znám a ta se tam k nám nemění.<br />
+</p>
+<h2>Ref1:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Kousek dál a já to vím,<br />
+uvidím už stoupat dým,<br />
+šikmej štít nad střechy ční k nebesům.<br />
+</p>
+<h2>Ref:2</h2>
+<p class="text"><br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>25 Severní větry</h1>
+<h3>J. uhlíř</h3>
+<div class="keychart" > <p class="key" > Capo: 0/2</p>
+<p class="key" > Key:C/D</p></div><div class="pisnicka" > 
+
+<h2>1</h2>
+<p class="akordy">Jdu <span class="akord" >C</span>s děravou patou,<br />
+Mám <span class="akord" >Am</span>horečku zlatou,<br />
+Jsem c<span class="akord" >F</span>hudý, jsem sláb, nemo<span class="akord" >C</span>cen.</p>
+<p class="text">Hlava mě pálí<br />
+A v modravé dáli</p>
+<p class="akordy">Se <span class="akord" >F</span>leskne a <span class="akord" >G</span>třpytí můj <span class="akord" >C</span>sen.</p>
+<p class="text"></p>
+<h2>2</h2>
+<p class="text">Kraj pod sněhem mlčí,<br />
+Tam stopy jsou vlčí,<br />
+Tam zbytečně budeš mi psát.<br />
+Sám v dřevěné boudě<br />
+Sen o zlaté hroudě<br />
+Já nechám si tisíckrát zdát.<br />
+</p>
+<h2>ref:</h2>
+<p class="akordy"><span class="akord" >C</span>Severní <span class="akord" >C7</span>vítr je <span class="akord" >F</span>krutý,<br />
+<span class="akord" >C</span>Počítej lásko má s <span class="akord" >G</span>tím.<br />
+|: K <span class="akord" >C</span>nohám ti <span class="akord" >C7</span>dám zlaté <span class="akord" >F</span>pruty<br />
+Nebo se <span class="akord" >C</span>vůbec <span class="akord" >G</span>nevrát<span class="akord" >C</span>ím. :|</p>
+<p class="text"></p>
+<h2>3</h2>
+<p class="text">Tak zarůstám vousem<br />
+A vlci už jdou sem,<br />
+Už slyším je výt blíž a blíž.<br />
+Už mají mou stopu,<br />
+Už větří, že kopu<br />
+Svůj hrob, a že stloukám si kříž.<br />
+</p>
+<h2>4</h2>
+<p class="text">Zde leží ten blázen,<br />
+Chtěl dům a chtěl bazén<br />
+A opustil tvou krásnou tvář.<br />
+Má plechovej hrnek<br />
+A pár zlatejch zrnek<br />
+A nad hrobem polární zář.<br />
+</p></div></div>
+
+<div class="container"><h1>26 Rána v trávě</h1>
 <h3>Želman</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: A</p></div><div class="pisnicka" > 
@@ -424,7 +935,451 @@ měl ses jindy narodit.<br />
 Před sebou sta sáhů.<br />
 </p></div></div>
 
-<div class="container"><h1>14 Slavíci z Madridu</h1>
+<div class="container"><h1>27 Tři kříže</h1>
+<h3>Hop trop</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >Dmi</span>Dávám sbohem <span class="akord" >Ami</span>všem břehům <span class="akord" >C</span>prokletejm<br />
+který v <span class="akord" >Ami</span>drápech má <span class="akord" >Dmi</span>ďábel <span class="akord" >Ami</span>sám<br />
+bílou přídí <span class="akord" >Ami</span>šalupy my <span class="akord" >C</span>grave<br />
+míří k <span class="akord" >Dmi</span>útesům <span class="akord" >Ami</span>který <span class="akord" >Dmi</span>znám.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Jen tři <span class="akord" >F</span>kříže z <span class="akord" >Dmi</span>bílýho <span class="akord" >Ami</span>kamení<br />
+někdo <span class="akord" >Dmi</span>do písku <span class="akord" >Ami</span>posklá<span class="akord" >Dmi</span>dal<br />
+slzy v <span class="akord" >F</span>očích měl a v <span class="akord" >Dmi</span>ruce <span class="akord" >Ami</span>znavený<br />
+lodní <span class="akord" >Dmi</span>deník co <span class="akord" >Ami</span>sám do něj <span class="akord" >Dmi</span>psal.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">První kříž má pod sebou jen hřích<br />
+samý pití a rvačky jen<br />
+chřestot nožů při kterým přejde smích<br />
+srdce kámen a jméno Stan.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Já Bob Green mám tváře zjizvený<br />
+štěkot psa zněl když jsem se smál<br />
+druhej kříž mám a chrápu pod zemí<br />
+že jsem falešný karty hrál.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Třetí kříž snad vyvolá jen vztek<br />
+Ketty Rogers těm dvoum život vzal<br />
+Svědomí měl tak, vedle nich si klek:<br />
+"Vím, trestat je lidský, ale odpouštět<br />
+Božský, ať mi tedy bůh odpustí"<br />
+</p>
+<h2>Ref2</h2>
+<p class="text">Jen tři kříže z bílýho kamení<br />
+jsem jim do písku poskládal.<br />
+Slzy v očích měl a v ruce znavený,<br />
+lodní deník, a v něm, co jsem do něj psal.<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>28 Rodné údolí</h1>
+<h3>neznámý</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Cesta m<span class="akord" >D</span>á přede mnou v dáli mizí,<br />
+Každý krok v srdci mém zab<span class="akord" >A7</span>olí,<br />
+Za krát<span class="akord" >D</span>ko bude mi<span class="akord" >D7</span> všechno ci<span class="akord" >G</span>zí,<br />
+Nespatří<span class="akord" >D</span>m své rodn<span class="akord" >A7</span>é údo<span class="akord" >D</span>lí.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Zavolám nashledanou, <span class="akord" >G</span>nashledanou<br />
+Na<span class="akord" >D</span>shledanou ro<span class="akord" >A7</span>dné údol<span class="akord" >D</span>í<br />
+Zavolám nashledanou, n<span class="akord" >G</span>ashledanou,<br />
+Př<span class="akord" >D</span>i vzpomínce srd<span class="akord" >A7</span>ce zabol<span class="akord" >D</span>í</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Oči mé nevidí, jak se stmívá,<br />
+nevidí, co jsem měl tolik rád,<br />
+jediné, co mi teď ještě zbývá,<br />
+rodnému údolí sbohem dát.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Proč se den za každou nocí vrací,<br />
+proč se čas na chvíli nezastaví?<br />
+Nemusel bych ti své sbohem dáti,<br />
+kdyby dnešní den navěky byl.<br />
+</p></div></div>
+
+<div class="container"><h1>29 Okoř</h1>
+<h3>neznámý autor</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D dur</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >D</span>Na okoř je cesta, jako žádná ze sta,<br />
+v<span class="akord" >A7</span>roubená je stroma<span class="akord" >D</span>ma.</p>
+<p class="text">Když jdu po ní v létě, samoten na světě,</p>
+<p class="akordy">s<span class="akord" >A7</span>otva pletu noha<span class="akord" >D</span>ma.<br />
+<span class="akord" >G</span>Na konci té cesty <span class="akord" >D</span>trnité<br />
+<span class="akord" >E</span>stojí krčma jako hra<span class="akord" >A7</span>d /jako hrad/.<br />
+<span class="akord" >D</span>Tam zapadli trampi, hladoví a sešlí,<br />
+z<span class="akord" >A7</span>ačli sobě notova<span class="akord" >D</span>t /notovat/</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">N<span class="akord" >D</span>a hradě okoří, s<span class="akord" >A7</span>větla už nehoří<br />
+bí<span class="akord" >D</span>lá paní š<span class="akord" >A7</span>la už dávno sp<span class="akord" >D</span>át.<br />
+Ta měla ve zvyku, po<span class="akord" >A7</span>dle svého budíku,<br />
+o p<span class="akord" >D</span>ůl noci chod<span class="akord" >A7</span>it strašív<span class="akord" >D</span>at /strašívat/.<br />
+O<span class="akord" >G</span>d těch dob co jsou tam <span class="akord" >D</span>trampové,<br />
+<span class="akord" >E</span>nesmí z hradu pr<span class="akord" >A7</span>yč /z hradu pryč/.<br />
+A<span class="akord" >D</span> tak dole v podhradí, se <span class="akord" >A7</span>šerifem dovádí,<br />
+o<span class="akord" >D</span>n jí sebra o<span class="akord" >A7</span>d komnaty klíč.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Jednoho dne z rána roznesla se zpráva,<br />
+že byl Okoř vykraden.<br />
+Nikdo neví dodnes, kdo to tenkrát odnes,<br />
+nikdo nebyl dopaden.<br />
+Šerif hrál celou noc mariáš<br />
+s bílou paní v kostnici,<br />
+místo aby hlídal, zuřivě ji líbal,<br />
+dostal z toho zimnici.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>30 Opouštím svůj rodný kraj</h1>
+<h3>Neznámý</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Opou<span class="akord" >D</span>štím svůj rodný kr<span class="akord" >D7</span>aj,<br />
+ranče ohr<span class="akord" >G</span>adu i stá<span class="akord" >D</span>j,<br />
+Opou<span class="akord" >A7</span>štím svou rodnou sava<span class="akord" >D</span>nu</p>
+<p class="text"><br />
+Putuji dal ke hvězdám<br />
+Cestu svoji sám neznám,<br />
+Kamarádům navždy sbohem dám.<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">Oh fa<span class="akord" >D7</span>rewell, oh fare<span class="akord" >G</span>well, oh farew<span class="akord" >D</span>ell<br />
+Koníčku můj milý na cestu se d<span class="akord" >A7</span>ej<br />
+Cesta m<span class="akord" >D</span>á je neznám<span class="akord" >D7</span>á, poset<span class="akord" >G</span>á je hvězdam<span class="akord" >D</span>a<br />
+A v těch h<span class="akord" >A7</span>vězdách zaset osud m<span class="akord" >D</span>ůj</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Cesta má je zlatý důl, vzdálená života půl,<br />
+zlatou stezku mou mně ozáří.<br />
+Lepší je kůň, než žena, nepotřebuje věna,<br />
+stačí mu jen otýpka sena.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Když projíždím Texasem nad hlavou točím lasem,<br />
+kolt můj visí nízko pod pasem.<br />
+Když jsem kolty tasit měl, černý Jack mě předešel,<br />
+a já s kulkou k zemi klesl jsem.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Děvče, o kterém já sním,<br />
+víc už nikdy nespatřím, kamarádi,<br />
+já už umírám. Naposled zřím rodný kraj,<br />
+ranče, ohradu i stáj,<br />
+naposled zřím rodnou savanu.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>31 Stánky</h1>
+<h3>Jan Nedvěd</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >D</span>U stánků <span class="akord" >G</span> na levnou krásu, <span class="akord" >D</span> postávaj <span class="akord" >Gmi</span>a smějou se času,<br />
+<span class="akord" >D</span> s cigaretou a <span class="akord" >A7</span> holkou, co nemá <span class="akord" >D</span> kam jít.</p>
+<p class="text">2)<br />
+Skleniček pár a pár tahů z trávy, uteče den jak večerní zprávy,<br />
+neuměj žít, bouřej se a neposlouchaj.<br />
+<br />
+Rf.:</p>
+<p class="akordy"><span class="akord" >G</span>Jen zahlídli svět, maj <span class="akord" >A</span>na duši vrásky,<br />
+tak <span class="akord" >D</span>málo je - <span class="akord" >Gmi</span> málo je lásky,<br />
+<span class="akord" >D</span>ztracená víra <span class="akord" >A7</span> hrozny z vinic neposbí<span class="akord" >D</span>rá</p>
+<p class="text"><br />
+3)<br />
+U stánků Na levnou krásu, postávaj a ze slov a hlasů<br />
+opznávám, jak málo sma jim stačili dát.<br />
+</p></div></div>
+
+<div class="container"><h1>32 To ta helpa</h1>
+<h3>P. Dydovič</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">T<span class="akord" >Am</span>o ta he<span class="akord" >D</span>lpa, t<span class="akord" >Am</span>o ta he<span class="akord" >D</span>lpa,<br />
+t<span class="akord" >Am</span>o je pę<span class="akord" >E7</span>knę me<span class="akord" >Am</span>sto</p>
+<p class="text">A v tej helpe, a v tej helpe<br />
+Švarných chlapcov je sto<br />
+</p>
+<p class="akordy">/:Ko<span class="akord" >F</span>ho je st<span class="akord" >G7</span>o, to<span class="akord" >C</span>ho je sto,<br />
+Ni<span class="akord" >G</span>e po moje<span class="akord" >C</span>j vól<span class="akord" >E7</span>i,<br />
+L<span class="akord" >Am</span>en za jed<span class="akord" >D</span>nym, le<span class="akord" >Am</span>n za je<span class="akord" >Am</span>dnym<br />
+Srdi<span class="akord" >Am</span>éčko m<span class="akord" >E7</span>a bol<span class="akord" >Am</span>i :/</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Za Janíčkom, za Palíčkom<br />
+krok by něspravila,<br />
+za Ďuríčkom, za Mišíčkom<br />
+Dunaj preskočila.<br />
+<br />
+/:Dunaj, Dunaj, Dunaj, Dunaj,<br />
+aj to širé pole,<br />
+len za jedním, len za jedním,<br />
+počešenie moje.:/<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>33 Zvedněte kotvy/ John B.</h1>
+<h3>Hájek</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: E</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Už <span class="akord" >E</span>vyplouvá loď John B., už vyplouvá loď John B.,<br />
+okamžik malý, jen než popluje v <span class="akord" >H7</span>dál,<br />
+nechte mě <span class="akord" >E</span>plout<span class="akord" >E7</span>, nechte mě <span class="akord" >A</span>plo-o-<span class="akord" >Ami</span>out,<br />
+<span class="akord" >E</span>sil už málo mám, tak <span class="akord" >DH</span>nechte mě <span class="akord" >E</span>plout.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Nejdřív jsem se napil, na zdraví všem připil,<br />
+vím, že cesta má konec už má,<br />
+nechte mě plout, nechte mě plout,<br />
+sil už málo mám, tak nechte mě plout.<br />
+</p>
+<h2>3:</h2>
+<p class="text">Sklenici svou dopil, zakrátko u mne byl,<br />
+okovy na mne dal a pistole vzal,<br />
+šerif John Stone, šerif John Stone,<br />
+moji svobodu vzal šerif John Stone.<br />
+</p>
+<h2>4:</h2>
+<p class="text">Už vyplouvá loď John B., už vyplouvá loď John B.,<br />
+okamžik malý, jen než popluje v dál,<br />
+nechte mě plout, nechte mě plout,<br />
+sil už málo mám, tak nechte mě plout.<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>34 Kapr</h1>
+<h3>Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Na rybníce jsou velké vlny, <span class="akord" >Dmi</span>dělají <span class="akord" >G7</span>se od příro<span class="akord" >C</span>dy,<br />
+kapr, ten je opatrný, <span class="akord" >Dmi</span>nevystr<span class="akord" >G7</span>čí čumák z vo<span class="akord" >C</span>dy.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Šp<span class="akord" >C</span>louchy-šplouchy, štika žere mou<span class="akord" >Dmi</span>chy,<br />
+žbluňky-žbluň<span class="akord" >G7</span>ky, a kapr meruň<span class="akord" >C</span>ky.<br />
+Šp<span class="akord" >C</span>louchy-šplouchy, štika žere mou<span class="akord" >Dmi</span>chy,<br />
+žbluňky-žbluň<span class="akord" >G7</span>ky, a kapr meruň<span class="akord" >C</span>ky.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Nevylézej, kapře milý, je tam velké vlnobití,<br />
+chlupy vodě se naježily, mohl by ses utopiti.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>35 Hudsonské šífy</h1>
+<h3>Wabi Daněk</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Ten kdo <span class="akord" >Ami</span>nezná hukot vody<br />
+lopatkama<span class="akord" >C</span> vířený ako <span class="akord" >G</span>já, jako <span class="akord" >Ami</span>já</p>
+<p class="text">Kdo hudsonský slapy nezná</p>
+<p class="akordy">sírou <span class="akord" >G</span>pekla sířený Ať se <span class="akord" >Ami</span>na hudsonský<br />
+<span class="akord" >G</span>šífy najmout <span class="akord" >Ami</span>dá, <span class="akord" >G</span>jo <span class="akord" >G#</span>ho <span class="akord" >Ami</span>ho</p>
+<p class="text"><br />
+<br />
+Ten kdo nepřekládal uhlí, šíf když na<br />
+mělčinu vjel, málo zná, málo zná<br />
+Ten kdo neměl tělo ztuhlý<br />
+až se nočním chladem chvěl<br />
+Ať se na hudsonský šífy najmout dá, jo ho ho<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">Tak <span class="akord" >F</span>ahoj, páru tam <span class="akord" >Ami</span>zhoď,<br />
+ať <span class="akord" >G</span>do pekla se dřívě <span class="akord" >Ami</span>dohrabem<br />
+<span class="akord" >G</span>Jo <span class="akord" >G#</span>ho <span class="akord" >Ami</span>ho, <span class="akord" >G</span>jo <span class="akord" >G#</span>ho <span class="akord" >Ami</span>ho</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Ten kdo nezná noční spěvy<br />
+zarostlenejch lodníků, jako já, jako já<br />
+Ten kdo cejtí se bejt chlapem, umí dělat rotyku<br />
+Ať se na hudsonský šífy najmout dá, jo ho ho<br />
+<br />
+Ten kdo má na bradě mlíko,<br />
+kdo se rumem nevopil, málo zná, málo zná<br />
+Kdo necejtil hrůzu z vody, kde se málem utopil<br />
+Ať se na hudsonský šífy najmout dá, jo ho ho<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Kdo má roztrhaný boty,<br />
+kdo má pořád jenom hlad, jako já, jako já<br />
+Kdo chce celý noci čuchat<br />
+pekelního ohně smrad,<br />
+ať se na hudsonský šífy<br />
+najmout dá, jo ho ho,<br />
+<br />
+kdo chce zhebnout<br />
+třeba zejtra, komu je to všechno fuk,<br />
+kdo je sám, jako já<br />
+Kdo má srdce v správným místě,<br />
+kdo je prostě prima kluk<br />
+Ať se na hudsonský šífy najmout dá, jo ho ho<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>36 Dokud se zpívá</h1>
+<h3>Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Z Těšína v<span class="akord" >Em</span>yjíždí vla<span class="akord" >Dm7</span>ky co č<span class="akord" >F</span>tvrthodin<span class="akord" >C</span>u<span class="akord" >Em, Dm7, G7</span><br />
+<span class="akord" >C</span>včera jsem n<span class="akord" >Em</span>espal a a<span class="akord" >Dm7</span>ni dnes <span class="akord" >F</span>nespoči<span class="akord" >C</span>nu<span class="akord" >Em, Dm7, G</span><br />
+<span class="akord" >F</span>svatý Meda<span class="akord" >G</span>rd můj patro<span class="akord" >C</span>n ťuká si na <span class="akord" >Am</span>če<span class="akord" >G</span>lo<br />
+ale <span class="akord" >F</span>dokud se <span class="akord" >G</span>zpívá ješt<span class="akord" >F</span>ě se ne<span class="akord" >G</span>umřel<span class="akord" >C</span>o<br />
+<span class="akord" >Em, Dm7, G7, C, Em, Dm7, G7</span></p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Ve stánku koupím si housku a slané tyčky<br />
+srdce mám pro lásku a hlavu pro písničky<br />
+ze školy dobře vím co by se dělat mělo<br />
+ale dokud se zpívá ještě se neumřelo<br />
+</p>
+<h2>3:</h2>
+<p class="text">Do alba jízdenek lepím si další jednu<br />
+vyjel jsem před chvílí konec je v nedohlednu<br />
+za oknem míhá se život jak leporelo<br />
+a dokud se zpívá ještě se neumřelo<br />
+</p>
+<h2>4:</h2>
+<p class="text">Stokrát jsem prohloupil a stokrát platil draze<br />
+houpe to houpe to na housenkové dráze<br />
+i kdyby supi se slítali na mé tělo<br />
+tak dokud se zpívá ještě se neumřelo<br />
+hm - hm hm - hm - hm<br />
+</p>
+<h2>5:</h2>
+<p class="text">Z Těšína vyjíždí vlaky až na kraj světa<br />
+zvedl jsem telefon a ptám se lidi jste tam?<br />
+a z veliké dálky do uší mi zaznělo</p>
+<p class="akordy">že dokud se zpívá ještě se neumřelo<span class="akord" >C, Em, Dm7, G7</span><br />
+že <span class="akord" >F</span>dokud se z<span class="akord" >G</span>pívá je<span class="akord" >F</span>ště se <span class="akord" >G</span>neumře<span class="akord" >C</span>lo.<span class="akord" >Em, Dm7, G7, C</span></p>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>37 Vadí, nevadí/ není nutno</h1>
+<h3>Uhlíř, Svěrák</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="text"><br />
+Není nutno, není nutno,<br />
+Aby bylo přímo veselo<br />
+Hlavně nesmí býti smutno,<br />
+Natož aby se brečelo.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Chceš-li trap se,<br />
+že ti v kapse<br />
+Zlaté mince nechřestí,<br />
+Nemít žádné kamarády,<br />
+Tomu já říkám neštěstí<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Nemít prachy...nevadí<br />
+Nemít srdce...vadí<br />
+Zažít krachy... nevadí<br />
+Zažít nudu... jó to vadí<br />
+To vadí<br />
+</p>
+<h2>1, 2, 1:</h2>
+<p class="text"><br />
+<br />
+<br />
+<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>38 Trpasličí svatba</h1>
+<h3>Uhlíř, Synek</h3>
+<div class="keychart" > <p class="key" > Capo: X</p>
+<p class="key" > Key: G</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">V<span class="akord" >G</span> lese, jó v lese n<span class="akord" >C</span>a jehlič<span class="akord" >G</span>í,<br />
+koná se svatba tr<span class="akord" >A</span>pasli<span class="akord" >D7</span>čí,<br />
+ž<span class="akord" >G</span>ádná divná <span class="akord" >C</span>věc to nen<span class="akord" >H7</span>í,<br />
+Šm<span class="akord" >C</span>udla už m<span class="akord" >C#dim</span>á po<span class="akord" >G</span> vojn<span class="akord" >Em</span>ě a t<span class="akord" >A</span>ak se že<span class="akord" >D7</span>ní.<span class="akord" >G</span></p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Malou má ženu, malinkatou,<br />
+s malým věnem, malou chatou.<br />
+Už jim choděj' telegrámky,<br />
+už jim hrajou Mendelssohna na varhánky.<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">Protože lá<span class="akord" >D</span>ska, láska, láska v každém srd<span class="akord" >G</span>ci klíč<span class="akord" >D</span>í,<br />
+protože láskou hoří i to srdce tr<span class="akord" >G</span>pasličí<span class="akord" >D</span><br />
+a kdo se v téhle věci jednoduše ne<span class="akord" >G</span>opičí<span class="akord" >D</span>,<br />
+ten ať se dívá, co se děje v lese n<span class="akord" >G</span>a jehli<span class="akord" >D</span>čí.<span class="akord" >D7</span></p>
+<p class="text"></p>
+<h2>2x</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>39 Morituri te salutant</h1>
+<h3>Karel Kryl</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Cesta je <span class="akord" >Am</span>prach a <span class="akord" >G</span>štěrk a <span class="akord" >Dm</span>udusaná <span class="akord" >Am</span>hlína,<br />
+<span class="akord" >C</span>a šedé šm<span class="akord" >F</span>ouhy kr<span class="akord" >G7</span>eslí do vlas<span class="akord" >C</span>ů.<br />
+<span class="akord" >Am</span>A z hvězdných <span class="akord" >Dm</span>drah má <span class="akord" >G</span>šperk, co <span class="akord" >C</span>kamením se <span class="akord" >E</span>spíná,<br />
+<span class="akord" >Am</span>a pírka to<span class="akord" >G</span>uhy z <span class="akord" >Em</span>křídel Pegas<span class="akord" >Am</span>ů.<br />
+A z hvězdných <span class="akord" >F</span>drah má <span class="akord" >G7</span>šperk, co <span class="akord" >C</span>kamením se <span class="akord" >E</span>spíná,<br />
+<span class="akord" >Am</span>a pírka to<span class="akord" >G</span>uhy z <span class="akord" >Em</span>křídel Pegas<span class="akord" >Am</span>ů.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Cesta je bič, je zlá, jak pouliční dáma.<br />
+Má v ruce štítky, v pase staniol,<br />
+/:a z očí chtíč jí plá, když háže do neznáma<br />
+dvě křehké snítky rudých gladiol.:/<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">Seržante p<span class="akord" >G</span>ísek je bílý, jak paže Daniely.<br />
+<span class="akord" >Am</span>Počkejte chvíli, mé oči uviděly<br />
+<span class="akord" >G7</span>tu strašně dávnou vteřinu zapomnění.<br />
+<span class="akord" >Am</span>Seržante, mávnou, <span class="akord" >G7</span>a budem zasvěceni.<br />
+<span class="akord" >C</span>Morituri te salutant,<br />
+<span class="akord" >E</span>Morituri te salutant.</p>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>40 Slavíci z Madridu</h1>
 <h3>Waldemar Matuška</h3>
 <div class="keychart" > <p class="key" > Capo: 2</p>
 <p class="key" > Key: D</p></div><div class="pisnicka" > 
@@ -480,7 +1435,41 @@ já si dám sklenici vína.<br />
 <p class="text"><br />
 </p></div></div>
 
-<div class="container"><h1>15 Tulácký ráno</h1>
+<div class="container"><h1>41 Proklínám</h1>
+<h3>Ledecký</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Prázdnej <span class="akord" >Ami</span>byt je jako <span class="akord" >F</span>past<br />
+kde <span class="akord" >Dmi</span>růže uvadnou<span class="akord" >C, G</span><br />
+<span class="akord" >Ami</span>Potisíci <span class="akord" >F</span>čtu tvu j dopis<br />
+<span class="akord" >Dmi</span>na rozlouče<span class="akord" >G</span>nou<span class="akord" ><br />
+C</span>Píšeš že <span class="akord" >Ami</span>odcházíš, když <span class="akord" >F</span>den se s nocí <span class="akord" >C</span>stří<span class="akord" >G</span>dá<br />
+<span class="akord" >Ami</span>Vodu z vína <span class="akord" >F</span>udělá <span class="akord" >Dmi</span>kdo dobře nehlídá<span class="akord" >G</span>. Píšeš:</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">C</span>Proklínám<span class="akord" >G</span>. Ty <span class="akord" >Ami</span>tvoje <span class="akord" >F</span>ústa proklínám<span class="akord" >C</span><br />
+Tvoje <span class="akord" >G</span>oči ledový<span class="akord" >Ami</span>.<br />
+V <span class="akord" >F</span>srdci jen sníh <span class="akord" >C</span>sám a <span class="akord" >G</span>sám.<br />
+Ať <span class="akord" >Ami</span>nikdy <span class="akord" >F</span>úsvit nespat<span class="akord" >C</span>říš<br />
+Na ústa <span class="akord" >G</span>mříž. Oči oslep<span class="akord" >Ami</span>nou<br />
+Ať <span class="akord" >F</span>do smrti seš <span class="akord" >C</span>sám.<span class="akord" ></p>
+<h2>prechod cez h strunu</h2> a
+<h2>atd</h2></span>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Tvoje oči jsou jak stín.<br />
+A tvář den když se stmívá<br />
+Stromy rostou čím dál výš a pak je čeká pád<br />
+Sám s hlavou skloněnou<br />
+všechny lásky budou zdání<br />
+Po tisíci čtu tvůj dopis na rozloučenou. Píšeš:<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">.. ať zu staneš sám. Sám. A sám.<br />
+</p></div></div>
+
+<div class="container"><h1>42 Tulácký ráno</h1>
 <h3>Brontosauři</h3>
 <div class="keychart" > <p class="key" > Capo: 0</p>
 <p class="key" > Key: D</p></div><div class="pisnicka" > 
@@ -516,35 +1505,592 @@ kolik v tom pravdy, však kdo nám ji dá?<br />
 <p class="text"><br />
 </p></div></div>
 
-<div class="container"><h1>16 Červená řeka</h1>
-<h3>Ivo Fisher</h3>
+<div class="container"><h1>43 Nebeští jezdci</h1>
+<h3>Matuška</h3>
+<div class="keychart" > <p class="key" > Capo: 0/3</p>
+<p class="key" > Key: A/C moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Po zas<span class="akord" >Ami</span>mušilé pustině jel sta<span class="akord" >C</span>rý honec krav,<br />
+den <span class="akord" >Ami</span>temný byl a ševelil <span class="akord" >C</span>větrem v stéblech trav,<br />
+tu <span class="akord" >Ami</span>honec k nebi pohleděl a v hrů<span class="akord" >C</span>ze zůstal stát,<br />
+když z <span class="akord" >Dmi</span>rozedran<span class="akord" >F</span>ých oblaků zřel <span class="akord" >Am</span>stádo krav se hnát.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Jupija <span class="akord" >C</span>jéj,jupija j<span class="akord" >Ami</span>ou, to <span class="akord" >Dmi</span>přízraky <span class="akord" >F</span>táhnou <span class="akord" >Ami</span>tmou.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Ten skot měl nohy z ocele a oči krvavé<br />
+a na bocích mu plápolaly cejchy řežavé.<br />
+A oblohou se neslo jeho kopyt dunění<br />
+a za ním jeli honáci až k smrti znavení.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Ti muži byli sinalí a kalný měli zrak<br />
+a marně stádo stíhali, jak mračno stíhá mrak.<br />
+A proudy potu máčely jim tvář i košili<br />
+a starý honec uslyšel jejich jekot kvílivý.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Tu jeden honec zavolal a pravil: "Pozor dej",<br />
+svou duši hříchu uvaruj a ďáblu odpírej,<br />
+bys nemusel pak po smrti se věčně věků štvát<br />
+a nekonečnou oblohou to stádo s námi hnát.<br />
+</p>
+<h2>Ref 2x:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>44 Motlitba vodáka</h1>
+<h3></h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Ať jsou šl<span class="akord" >C</span>ajsny plný v<span class="akord" >Ami</span>ody, ať jsou v<span class="akord" >F</span>lny mohutn<span class="akord" >G</span>ý,<br />
+aby n<span class="akord" >C</span>aše něžný l<span class="akord" >Ami</span>odi nedrnc<span class="akord" >F</span>aly vo šutr<span class="akord" >G</span>y,<br />
+ať mě p<span class="akord" >C</span>eřej prudce vc<span class="akord" >Ami</span>ucne, ať tam vl<span class="akord" >F</span>ítnu s kuráž<span class="akord" >G</span>í,<br />
+až mý t<span class="akord" >C</span>ělo v noci <span class="akord" >Ami</span>usne, ať ho n<span class="akord" >F</span>echaj' k<span class="akord" >G</span>omář<span class="akord" >C</span>i.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Vždyť je t<span class="akord" >Ami</span>oho, Bože, málo, v<span class="akord" >F</span>od tebe chci j<span class="akord" >G</span>en,<br />
+aby n<span class="akord" >C</span>ás tvý slunce hř<span class="akord" >F</span>álo tenhle l<span class="akord" >G</span>etní d<span class="akord" >C</span>en.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Ať je každej z naší bandy samej smích a pohoda,<br />
+ať užijem spoustu srandy, ať se kudlou nebodá,<br />
+ať se všichni kamarádi, co se sejdou na vodě,<br />
+naučí hrát na kytary, ať to frčí v hospodě.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Ať mám holku-kamaráda, ať se liší vod husy,<br />
+ať mě má ta holka ráda, pádlovat už nemusí,<br />
+pojedu s ní, kam si přeje, až na hříšný Tahiti,<br />
+ať se na mě hezky směje a nedělá "ty-ty-ty".<br />
+<br />
+</p>
+<p class="akordy">®: + /: /: /: tenhle l<span class="akord" >F</span>etn<span class="akord" >G</span>í d<span class="akord" >C</span>en ... :/ :/ :/</p>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>45 Panenka</h1>
+<h3>Robert Křesťan</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >G</span>Co skrýváš za <span class="akord" >C</span>víčky a <span class="akord" >G</span>plameny <span class="akord" >C</span>svíčky<br />
+snad <span class="akord" >G</span>houf bílejch holubic nebo jen <span class="akord" >D</span>žal<br />
+tak <span class="akord" >C</span>odplul ten <span class="akord" >G</span>prvý, den <span class="akord" >C</span>zmáčený <span class="akord" >G</span>krví<br />
+ani pouťovou panenku <span class="akord" >D</span>nezane<span class="akord" >G</span>chal.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy">Otevři <span class="akord" >C</span>oči Ty <span class="akord" >G</span>uspěcha<span class="akord" >D</span>ná, <span class="akord" >C</span>dámo <span class="akord" >G</span>uplaka<span class="akord" >D</span>ná,<br />
+<span class="akord" >C</span>otevři <span class="akord" >G</span>oči ta <span class="akord" >C</span>hloupá noc <span class="akord" >G</span>končí<br />
+a mír je <span class="akord" >D</span>mezi ná<span class="akord" >G</span>ma.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Už si oblékni šaty a řetízek zlatý<br />
+a umyj se půjdeme na karneval<br />
+a na bílou kůži Ti napíšu tuší<br />
+že dámou jsi byla a zůstáváš dál.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>46 Zabili, zabili /Balada pro banditu</h1>
+<h3>Štědroň</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Zabili, <span class="akord" >F</span>zabili, <span class="akord" >Dmi</span>chlapa z <span class="akord" >F</span>koloča <span class="akord" >C</span>vy,<br />
+<span class="akord" >C</span>řekněte <span class="akord" >F</span> hrobaři, <span class="akord" >G</span> kde je <span class="akord" >Dm7</span>pocho <span class="akord" >F</span>vaný? <span class="akord" >C</span></p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >F</span>Bylo tu není tu, havrani <span class="akord" >B</span>na plotu<br />
+<span class="akord" >F</span>Bylo víno v sudě <span class="akord" >B</span>teď tam vo <span class="akord" >C7</span>da bude<br />
+<span class="akord" >F</span> není, není tu</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Špatně ho zabili<br />
+špatně pochovali<br />
+vlci ho pojedli<br />
+ptáci rozklovali<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Vítr ho roznesl<br />
+po dalekém kraji<br />
+havrani pro něho<br />
+po poli krákají<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">Kráká starý hravran<br />
+krákat nepřestane<br />
+dokud v Koločavě<br />
+živý chlap zůstane<br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>47 Hej teto</h1>
+<h3>M. Horák</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A moll</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Měl jsem <span class="akord" >Gmi</span>hlídat<br />
+tetě <span class="akord" >B</span>křečka,<br />
+<span class="akord" >F</span>dala mi ho se slovy, ať<br />
+<span class="akord" >C</span>u mě chvíli přečká.</p>
+<p class="text"><br />
+Ale křečka<br />
+uhlídati<br />
+nelze jen tak lehce,<br />
+obzvlášť když se vám moc nechce.<br />
+Po pokoji,<br />
+ať si běhá<br />
+na gauč jsem si lehnul,<br />
+vzápětí se ani nehnul.<br />
+Tlačilo mě,<br />
+Do zad kromě,<br />
+Polštářů i cosi,<br />
+Už se vidím tetu prosit.<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">Hej <span class="akord" >Es</span> teto,<br />
+já ho <span class="akord" >B</span> zabil,<br />
+<span class="akord" >D</span> už se to nestane, jo<br />
+<span class="akord" >Gmi</span> ten už asi nevstane.<br />
+Hej <span class="akord" >Es</span> teto,<br />
+nekřič <span class="akord" >B</span> na mě,<br />
+<span class="akord" >D</span> já ho prostě neviděl,<br />
+<span class="akord" >Gmi</span> už dost jsem se nastyděl,<br />
+hej <span class="akord" >Es</span> teto!<br />
+<span class="akord" >B</span>, <span class="akord" >D</span>, <span class="akord" >Gmi</span>, <span class="akord" >Es</span>, <span class="akord" >B</span>, <span class="akord" >D</span>, <span class="akord" >D7</span></p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Tak jsem kouknul,<br />
+co mě tlačí,<br />
+seděl jsem jenom na televizním ovladači,<br />
+ale křeččí<br />
+švitoření<br />
+slyšet není,<br />
+jenom zvláštní smrad se line od topení.<br />
+Zase se mi<br />
+dech zatajil,<br />
+spečeného křečka bych před tetou neobhájil.<br />
+A dřív než tam<br />
+sebou seknu,<br />
+měl bych asi vymyslet,<br />
+jak tetě potom řeknu:<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">hej teto!<br />
+</p>
+<h2>3:</h2>
+<p class="text">Hej teto,<br />
+já ho fakt zabil,<br />
+ten bídák sežral magnet<br />
+a k topení se přitavil.<br />
+<br />
+Hej teto,<br />
+co na to říci?<br />
+Můžeš si ho maximálně připnout na lednici.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">hej teto!<br />
+</p></div></div>
+
+<div class="container"><h1>48 Ráda se miluje</h1>
+<h3>Plíhal</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: E</p></div><div class="pisnicka" > 
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >Hmi</span>Ráda se miluje, <span class="akord" >A</span>ráda <span class="akord" >D</span>jí,<br />
+<span class="akord" >G</span>ráda si <span class="akord" >F#mi</span>jenom tak <span class="akord" >Hmi</span>zpívá,<br />
+vrabci se na plotě <span class="akord" >A</span>hádají<span class="akord" >D</span>,<br />
+ko<span class="akord" >G</span>lik že čas<span class="akord" >F#mi</span>u jí <span class="akord" >Hmi</span>zbývá.</p>
+<p class="text"></p>
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >G</span>Než vítr dostrká k <span class="akord" >D</span>útesu tu <span class="akord" >G</span>její legrační bá<span class="akord" >D</span>rku<span class="akord" >F#</span><br />
+a <span class="akord" >Hmi</span>Pámbu si ve svým <span class="akord" >A</span>note<span class="akord" >D</span>su <span class="akord" >G</span>udělá <span class="akord" >F#mi</span>jen další <span class="akord" >Hmi</span>čárku.</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Psáno je v nebeské režii, a to hned na první stránce,<br />
+že naše duše nás přežijí v jinačí tělesný schránce.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Úplně na konci paseky, tam, kde se ozvěna tříští,<br />
+sedí šnek ve snacku pro šneky - snad její podoba příští.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>49 Mám doma kočku</h1>
+<h3>Pokáč</h3>
+<div class="keychart" > <p class="key" > Capo: 1</p>
+<p class="key" > Key: Gis</p></div><div class="pisnicka" > 
+<h2>1.</h2>
+<p class="akordy"><span class="akord" >G</span>Jednou mi drahá říká: <span class="akord" >Emi</span> ,,Miláčku, já chci kočku”<br />
+J<span class="akord" >C</span>á na to, že chci spíš psa<span class="akord" >D</span> a  jeli jsme pro kočku</p>
+<p class="text">V útulku v Měcholupech, maj dobrej výběr, zdá se<br />
+Kočky jsou zcela zdarma, jen očkování za patnáct set<br />
+Po dlouhým vybírání, diskuzích a dvou hádkách<br />
+Jedno z koťátek jemně sevře můj prst ve svých drápkách<br />
+Tak volba byla jasná, má drahá slzy suší<br />
+Co si však vezem domů to ani jeden z nás netuší<br />
+</p>
+<h2>ref:</h2>
+<p class="text">Mám doma kočku, mám ji rád, je to skvělý kamarád<br />
+Jen od tý doby, co ji znám, mám ruce nohy samej šrám<br />
+Dávno už se nemazlí, žít s ní je pro zdraví fakt zlý<br />
+Každý den projdu terorem, mám nejspíš kočku s errorem<br />
+</p>
+<h2>2.</h2>
+<p class="text">Po pár dnech soužití, vše vypadá nevinně<br />
+Koťátko v náručí spí a pak zkadí půlku kuchyně<br />
+Prostě nic, co nečekáš, když útulek zaručí<br />
+Že kočička se za pár týdnů na záchůdek naučí<br />
+Jenže pár měsíců je pryč, záchod zeje prázdnotou<br />
+Bytem čpí příšernej smrad, za kočkou lítám s lopatou<br />
+Když jí zkusím pomoct sám, na záchod ji přemístit<br />
+Zvládne mi dlaně rozdrásat a ještě potřísnit<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>3.</h2>
+<p class="text">Za noc nejmíň pětkrát, jí okno otevřít jdu<br />
+Pak práci šéf se zeptá, proč vždy tak ospalý přijdu<br />
+Že občas hrdě nám, donese zakouslou myš<br />
+Poznáš až ráno když se s torzem myši v ústech vzbudíš<br />
+Tak jsme si dobrovolně pořídili katastrofu<br />
+Stálo nás to patnáct stovek a jednu zbrusu novou sofu<br />
+Kouše, škrábe, drásá, no prostě je to krása<br />
+Tváří se tak roztomile, zvlášť, když se mi rejpe v žíle<br />
+</p>
+<h2>R:</h2>
+<p class="text"></p>
+<h2>bridge</h2>
+<p class="akordy">Ráda dl<span class="akord" >Emi</span>ouze sedá v <span class="akord" >C</span>okně, a<span class="akord" >D</span>nebo ve dveř<span class="akord" >C</span>ích<br />
+Bůh ví, <span class="akord" >Emi</span>proč nejradši v <span class="akord" >C</span>zimě, když <span class="akord" >D</span>venku padá s<span class="akord" >C</span>níh<br />
+Když pak v<span class="akord" >Emi</span> bytě máme <span class="akord" >C</span>mínus dvacet, <span class="akord" >D</span>tak nás zahří<span class="akord" >G</span>vá<br />
+Aspoň po<span class="akord" >Emi</span>cit, že v tu ch<span class="akord" >C</span>víli naši<span class="akord" >D</span>, krev neprolív<span class="akord" >G</span>á</p>
+<p class="text">OU!<br />
+</p>
+<h2>ref:</h2>
+<p class="text"><br />
+<br />
+</p></div></div>
+
+<div class="container"><h1>50 Nad stádem koní</h1>
+<h3>Buty</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >D</span>Nad stá<span class="akord" >A</span>dem  ko<span class="akord" >Em</span>ní<br />
+podkovy zvon<span class="akord" >G</span>í, zvo<span class="akord" >D</span>ní,<br />
+černý vůz <span class="akord" >A</span>vlečou<span class="akord" >Emi</span><br />
+a slzy te<span class="akord" >G</span>čou a já<span class="akord" >A</span> volám:</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Tak neplač, můj kamaráde,<br />
+náhoda je blbec, když krade,<br />
+je tuhý jak veka a řeka ho zplaví,<br />
+máme ho rádi.<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy">No tak <span class="akord" >C</span>co, tak<span class="akord" >G</span> co, tak<span class="akord" >A</span> co.</p>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Vždycky si přál, až bude popel<br />
+i s kytarou, hou,<br />
+vodou ať plavou, jen žádný hotel<br />
+s křížkem nad hlavou.<br />
+</p>
+<h2>4:</h2>
+<p class="text">Až najdeš místo, kde je ten pramen<br />
+a kámen co praská,<br />
+budeš mít jisto, patří sem popel<br />
+a každá láska.<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>5:</h2>
+<p class="text">Nad stádem koní<br />
+podkovy zvoní, zvoní,<br />
+černý vůz vlečou<br />
+a slzy tečou a já šeptám:<br />
+</p>
+<h2>6:</h2>
+<p class="akordy">V<span class="akord" >D</span>ysyp ten p<span class="akord" >A</span>opel, <span class="akord" >Em</span>kamarád<span class="akord" >G</span>e, do bílé vo<span class="akord" >G</span>dy, <span class="akord" >A</span>vody,<span class="akord" >G</span><br />
+vyhasnul <span class="akord" >A</span>kotel a náhoda <span class="akord" >Emi</span>je štěstí od podkov<span class="akord" >G</span>y<span class="akord" >D</span></p>
+<p class="text"></p>
+<h2>3x</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>51 Hruška</h1>
+<h3>Čechomor</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy">Sto<span class="akord" >D</span>jí hruška v <span class="akord" >A</span>širém poli<br />
+vrš<span class="akord" >D</span>ek se jí <span class="akord" >G</span>zele<span class="akord" >A</span>ná<br />
+/: pod<span class="akord" >D</span> ní se <span class="akord" >G</span>pase k<span class="akord" >A</span>ůň vra<span class="akord" >D</span>ný<br />
+pase ho <span class="akord" >A</span>má <span class="akord" >D</span>milá :/</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Proč má milá dnes pasete<br />
+z večera do rána<br />
+/: kam můj milý pojedete<br />
+já pojedu s váma :/<br />
+</p>
+<h2>3:</h2>
+<p class="text">ó já pojedu daleko<br />
+přes vody hluboké<br />
+/: kéž bych byl nikdy nepoznal<br />
+panny černooké :/<br />
+</p></div></div>
+
+<div class="container"><h1>52 Racci</h1>
+<h3>Cermaque</h3>
+<div class="keychart" > <p class="key" > Capo: 7</p>
+<p class="key" > Key: A</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >Am</span>Tak dlouho volal racek <span class="akord" >C</span>do prázdna<br />
+<span class="akord" >Em</span>až z prázdna lásku <span class="akord" >D</span>přivolal</p>
+<p class="text">Ten příboj doplul sem až z dna<br />
+dva racci tančí u mola.<br />
+</p>
+<h2>2:</h2>
+<p class="text">Noc barví moře sametovou tuší<br />
+potom on vzlétne, ona netuší<br />
+zda už ji opustil<br />
+či pro ni hledá bezpečí.<br />
+</p>
+<h2>3:</h2>
+<p class="text">A vše je jedno, vše je dobře<br />
+že moře nikdy nemlčí<br />
+Ránu co nechá jedna vlna<br />
+vždy další vlna vyléčí<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">Já a ty, vlna za vlnou<br />
+to moře mává křídly<br />
+Já a ty, vlna za vlnou<br />
+to moře mává křídly<br />
+Já a ty, vlna za vlnou<br />
+to moře mává křídly<br />
+</p>
+<h2>4:</h2>
+<p class="text">Stařičký démon Poseidon<br />
+vidlice místo obočí<br />
+a v očích mořské propasti<br />
+hlídá ať láska, nikdy neotročí<br />
+Ať vlna za vlnou<br />
+nežene srdce do pastí<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
+</p></div></div>
+
+<div class="container"><h1>53 Voda už je svařená</h1>
+<h3>Michal Horák</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>ref:</h2>
+<p class="akordy"><span class="akord" >Dmi</span>Voda už je svařená<br />
+<span class="akord" >C</span>svařila ji <span class="akord" >F</span>Mařena,<br />
+<span class="akord" >G</span>aby čajem zapila<br />
+<span class="akord" >A</span>to, co večer <span class="akord" >Dmi</span>vypila.</p>
+<p class="text"></p>
+<h2>1.</h2>
+<p class="text">Ještě toho večera<br />
+říkal táta Mařeně:<br />
+"Ještě taháš kačera,<br />
+tak se chovej zodpovědně."<br />
+Řekla na to mařena<br />
+"Neboj, já pít G nebudu,<br />
+neudělám ostudu,<br />
+jakože jsem Mařena"-a<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>2.</h2>
+<p class="text">Polovinu oslavy<br />
+Mařena se nebaví,<br />
+to, protože za chvíli<br />
+byli všichni opilí.<br />
+Pak přišel Karel z konzumu,<br />
+v ruce flašku od rumu.<br />
+"Ahoj, já jsem mařena,<br />
+dej sem toho morgena"-a<br />
+</p>
+<h2>ref: 2x</h2>
+<p class="text"></p>
+<h2>3.</h2>
+<p class="text">Vzbudila se Mařena,<br />
+vedle sebe kořena,<br />
+v neoprénu oděná,<br />
+hlava jako praštěná.<br />
+Tak zmateně se na sudu<br />
+od piva posadila<br />
+"Pít už nikdy nebudu,"<br />
+a vodu na čaj postavila.<br />
+</p>
+<h2>ref: 2x</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>54 Kometa</h1>
+<h3>J. Nohavica</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: A</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >Am</span>Spatřil jsem kometu oblohou letěla</p>
+<p class="text">chtěl jsem jí zazpívat ona mi zmizela</p>
+<p class="akordy"><span class="akord" >Dm</span>zmizela jako laň <span class="akord" >G7</span>u lesa v remízku<br />
+v <span class="akord" >C</span>očích mi zbylo jen <span class="akord" >E7</span>pár žlutých penízků</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Penízky ukryl jsem do hlíny pod dubem<br />
+až příště přiletí my už tu nebudem<br />
+my už tu nebudem ach pýcho marnivá<br />
+spatřil jsem kometu chtěl jsem jí zazpívat<br />
+</p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >Am</span>O vodě o trávě <span class="akord" >Dm</span>o lese<br />
+<span class="akord" >G7</span>o smrti se kterou smířit <span class="akord" >C</span>nejde se<span class="akord" >E7</span><br />
+<span class="akord" >Am</span>o lásce o zradě <span class="akord" >Dm</span>o světě<br />
+<span class="akord" >E</span>a o všech lidech co kdy<span class="akord" >E7</span> žili na téhle plan<span class="akord" >Am</span>etě</p>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">Na hvězdném nádraží cinkají vagóny<br />
+pan Kepler rozepsal nebeské zákony<br />
+hledal až nalezl v hvězdářských triedrech<br />
+tajemství která teď neseme na bedrech<br />
+</p>
+<h2>4:</h2>
+<p class="text">Velká a odvěká tajemství přírody<br />
+že jenom z člověka člověk se narodí<br />
+že kořen s větvemi ve strom se spojuje<br />
+krev našich nadějí vesmírem putuje<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">na na na ...<br />
+</p>
+<h2>5:</h2>
+<p class="text">Spatřil jsem kometu byla jak reliéf<br />
+zpod rukou umělce který už nežije<br />
+šplhal jsem do nebe chtěl jsem ji osahat<br />
+marnost mě vysvlékla celého donaha<br />
+</p>
+<h2>6:</h2>
+<p class="text">Jak socha Davida z bílého mramoru<br />
+stál jsem a hleděl jsem hleděl jsem nahoru<br />
+až příště přiletí ach pýcho marnivá<br />
+my už tu nebudem ale jiný jí zazpívá<br />
+</p>
+<h2>Ref:</h2>
+<p class="text">O vodě o trávě o lese<br />
+o smrti se kterou smířit nejde se<br />
+o lásce o zradě o světě<br />
+bude to písnička o nás a kometě<br />
+</p></div></div>
+
+<div class="container"><h1>55 Bláznova ukolébavka</h1>
+<h3>P. Dydovič</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: D</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >D</span>Máš má ovečko <span class="akord" >A</span>dávno spát, <span class="akord" >G</span>i píseň ptáků <span class="akord" >D</span>končí<br />
+Kvůli nám přesta<span class="akord" >A</span>l vítr vát, <span class="akord" >G</span>jen můra <span class="akord" >G</span>zírá zvenčí<br />
+<span class="akord" >A</span>Já znám její zášť, tak<span class="akord" >G</span> vyhledej skrýš<br />
+<span class="akord" >A</span>Zas má bílej plášť a v<span class="akord" >G</span> okně je<span class="akord" >A</span> mříž</p>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="akordy"><span class="akord" >D</span>Máš má ovečko <span class="akord" >A</span>dávno spát<br />
+<span class="akord" >G</span>A můžeš hřát, ty mě <span class="akord" >E</span>můžeš hřát<br />
+Vždyť <span class="akord" >D</span>přijdou se <span class="akord" >G</span>ptát, zítra zas <span class="akord" >D</span>přijdou se <span class="akord" >G</span>ptát<br />
+Jestli ty v <span class="akord" >D</span>mých předsta<span class="akord" >G</span>vách už<span class="akord" >D</span> mizíš</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Máš má ovečko dávno spát, dnes máme půlnoc temnou<br />
+Ráno budou nám bláznům lhát, že ráda snídáš se mnou<br />
+Proč měl bych jim lhát, že jsem tady sám<br />
+Když Tebe mám rád, když Tebe tu mám<br />
+</p>
+<h2>Ref:</h2>
+<p class="text"></p>
+<h2>Ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>56 Ho Ho Watanay</h1>
+<h3>Lohonka Žalman</h3>
 <div class="keychart" > <p class="key" > Capo: X</p>
 <p class="key" > Key: D dur</p></div><div class="pisnicka" > 
 <h2>1:</h2>
-<p class="akordy">Pod tou sk<span class="akord" >D</span>álou, kde pro<span class="akord" >D7</span>ud řeky sy<span class="akord" >G</span>čí<br />
-a kde č<span class="akord" >D</span>ní červen<span class="akord" >H7</span>ý kamení<span class="akord" >Em, A7</span>.<br />
-Žije te<span class="akord" >D</span>n, co mi je<span class="akord" >D7</span>n srdce ni<span class="akord" >G</span>čí<br />
-koho j<span class="akord" >D</span>á ráda m<span class="akord" >A7</span>ám k zblázněn<span class="akord" >D</span>í.</p>
+<p class="akordy">Sp<span class="akord" >D</span>inkej můj maličký,<br />
+má<span class="akord" >C</span>š v očích h<span class="akord" >D</span>vězdičky,<br />
+dám Ti je d<span class="akord" >C</span>o vlasů,<br />
+tak u<span class="akord" >G</span>sínej, tak us<span class="akord" >D</span>ínej.</p>
 <p class="text"></p>
-<h2>2, 3, ...</h2>
-<p class="text">Vím, že lásku jak trám lehce slíbí,<br />
-já ho znám, srdce má děravý,<br />
-ale já ho chci mít, mně se líbí,<br />
-bez něj žít už mě dál nebaví.<br />
-<br />
-Často k nám jezdívá s kytkou růží<br />
-nejhezčí z kovbojů v okolí.<br />
-Vestu má ušitou z hadích kůží,<br />
-bitej pás, na něm pár pistolí.<br />
-<br />
-Hned se ptá, jak se mám, jak se daří,<br />
-a kdy prý mu to svý srdce dám?<br />
-Na to já odpovím, že čas maří,<br />
-srdce blíž Červený řeky mám.<br />
-<br />
-Když je tma a jdu spát, noc je černá,<br />
-hlavu mám bolavou závratí,<br />
-ale já přesto dál budu věrná,<br />
-dokud sám se zas k nám nevrátí.<br />
+<h2>ref:</h2>
+<p class="akordy"><span class="akord" >D</span>Ho ho Watanay, h<span class="akord" >C</span>o ho W<span class="akord" >D</span>atanay,<br />
+ho ho <span class="akord" >C</span>Watanay, Kio<span class="akord" >G</span>kena, Ki<span class="akord" >D</span>okena.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Sladkou vůni nese ti noční motýl z perleti,<br />
+vánek ho kolíbá, už usíná, už usíná.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>3:</h2>
+<p class="text">V lukách to zavoní, rád jezdíš na koni,<br />
+má barvu havraní, jak uhání, jak uhání.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p>
+<h2>4:</h2>
+<p class="text">V dlani motýl usíná, hvězdička už zhasíná,<br />
+vánek, co ji k tobě nes‘, až do léta ti odlétá.<br />
+</p>
+<h2>ref:</h2>
+<p class="text"></p></div></div>
+
+<div class="container"><h1>57 Mravenčí ukolébavka</h1>
+<h3>Z. Svěrák, J. Uhlíř</h3>
+<div class="keychart" > <p class="key" > Capo: 0</p>
+<p class="key" > Key: C</p></div><div class="pisnicka" > 
+<h2>1:</h2>
+<p class="akordy"><span class="akord" >C</span>Slunce šlo <span class="akord" >G</span>spát<br />
+<span class="akord" >F</span>za hromádku <span class="akord" >G</span>klád<br />
+<span class="akord" >C</span>na nebi <span class="akord" >Am</span>hvězdy <span class="akord" >G</span>klíčí.<br />
+<span class="akord" >C</span>Už nepra<span class="akord" >G</span>cuj, mr<span class="akord" >F</span>avenečku<span class="akord" >G</span> můj,<br />
+<span class="akord" >C</span>schovej s<span class="akord" >G</span>e do jehl<span class="akord" >C</span>ičí.</p>
+<p class="text"></p>
+<h2>R:</h2>
+<p class="akordy"><span class="akord" >C</span>Máš n<span class="akord" >F</span>ožičky <span class="akord" >C</span>uběh<span class="akord" >G</span>ané,<br />
+<span class="akord" >C</span>den by<span class="akord" >F</span>l tak těž<span class="akord" >G</span>ký.<br />
+<span class="akord" >C</span>Pojď, <span class="akord" >F</span>lůžko máš<span class="akord" >C</span> odestl<span class="akord" >G</span>ané<br />
+<span class="akord" >C</span>v plátku<span class="akord" >F</span> od mace<span class="akord" >C</span>šky.</p>
+<p class="text"></p>
+<h2>2:</h2>
+<p class="text">Spinká a sní<br />
+mravenec lesní<br />
+v hromádce u kapradí.<br />
+Nespinká sám,<br />
+s maminkou je tam,<br />
+tykadlama ho hladí.<br />
+</p>
+<h2>3:</h2>
+<p class="text">La-la-la-lá-la-la-la-lá<br />
+la-la-la-la-la-la-lá-lá....<br />
 </p></div></div>
 

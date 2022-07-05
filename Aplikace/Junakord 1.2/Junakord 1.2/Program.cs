@@ -87,11 +87,20 @@ namespace Junakord_1._2
                 string tagContainerEnd = "</div>";
 
                 string directory = Directory.GetCurrentDirectory();
-                foreach (string songFile in Directory.EnumerateFiles(directory + "/kekonverzi", "*.txt"))
+                string[] songfiles = Directory.GetFiles(directory + "/kekonverzi", "*.txt");
+                foreach(string sngName in songfiles)
+                {
+                    Console.WriteLine(sngName);
+                }
+                Array.Sort(songfiles);
+                foreach (string sngName in songfiles)
+                {
+                    Console.WriteLine(sngName);
+                }
+                foreach (string songFile in songfiles)
                 {
                     songNum++;
                     string contents = File.ReadAllText(songFile);                    
-
 
 
                     Console.WriteLine();
@@ -173,8 +182,8 @@ namespace Junakord_1._2
 
 
                     textContents = tagPisnickaStart + textContents + tagPisnickaEnd;
-                    textContents = tagSongNameStart + songNum + " " + songName + tagSongNameEnd + '\n' + tagAuthorStart + songAuthor + tagAuthorEnd + '\n' + textContents;                    
-
+                    textContents = tagSongNameStart + songNum + " " + songName + tagSongNameEnd + '\n' + tagAuthorStart + songAuthor + tagAuthorEnd + '\n' + textContents;
+                    textContents = tagContainerStart + textContents + tagContainerEnd;
 
                     Console.WriteLine("Contets after edit");
                     Console.WriteLine(contents);

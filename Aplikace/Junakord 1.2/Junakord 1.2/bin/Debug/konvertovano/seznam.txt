@@ -1,16 +1,57 @@
-1.    Bláznova ukolébavka - P. Dydovič
-2.    Buráky - J. Fallada
-3.    Chajda malá - neznámý
-4.    Ho Ho Watanay - Lohonka Žalman
-5.    Hruška - Čechomor
-6.    Jdou po mě jdou - J. Nohavica
-7.    Kometa - J. Nohavica
-8.    Mezi horami - Čechomor
-9.    Mravenčí ukolébavka - Z. Svěrák, J. Uhlíř
-10.    Mája - Nighwork
-11.    Oheň - Šárka
-12.    Racci - Cermaque
-13.    Rána v trávě - Želman
-14.    Slavíci z Madridu - Waldemar Matuška
-15.    Tulácký ráno - Brontosauři
+1.    Oheň - Šárka
+2.    Tygr - Termix
+3.    V Zeleném lese - Jarek Nohavica
+4.    Méďa - Terka Střílkec
+5.    Marihuana - neznám
+6.    Hartské údolí - Orleans
+7.    Veď mě dal, cesto má - Poštulka
+8.    Mája - Nighwork
+9.    Batalion - Starofrancouzská
+10.    Anděl - Karel kryl
+11.    Bedna od whisky - Miki Ryvola
+12.    Hlídač krav - Jaromír nohavica
+13.    Parta z ranče ypsilon - neznámý
+14.    Franky Dlouhán - Nedvěd
+15.    Dej mi víc své lásky - Janda, Chrastina
 16.    Červená řeka - Ivo Fisher
+17.    Jdou po mě jdou - J. Nohavica
+18.    Mezi horami - Čechomor
+19.    Kozel - Jarek Nohavica
+20.    Grónská písnička - Nohavica
+21.    Buráky - J. Fallada
+22.    Ruty luty arizona, texas - Neznámý
+23.    Tři citrónky - neznámý
+24.    Tisíc mil - Ivo Fisher
+25.    Severní větry - J. uhlíř
+26.    Rána v trávě - Želman
+27.    Tři kříže - Hop trop
+28.    Rodné údolí - neznámý
+29.    Okoř - neznámý autor
+30.    Opouštím svůj rodný kraj - Neznámý
+31.    Stánky - Jan Nedvěd
+32.    To ta helpa - P. Dydovič
+33.    Zvedněte kotvy/ John B. - Hájek
+34.    Kapr - Nohavica
+35.    Hudsonské šífy - Wabi Daněk
+36.    Dokud se zpívá - Nohavica
+37.    Vadí, nevadí/ není nutno - Uhlíř, Svěrák
+38.    Trpasličí svatba - Uhlíř, Synek
+39.    Morituri te salutant - Karel Kryl
+40.    Slavíci z Madridu - Waldemar Matuška
+41.    Proklínám - Ledecký
+42.    Tulácký ráno - Brontosauři
+43.    Nebeští jezdci - Matuška
+44.    Motlitba vodáka - 
+45.    Panenka - Robert Křesťan
+46.    Zabili, zabili /Balada pro banditu - Štědroň
+47.    Hej teto - M. Horák
+48.    Ráda se miluje - Plíhal
+49.    Mám doma kočku - Pokáč
+50.    Nad stádem koní - Buty
+51.    Hruška - Čechomor
+52.    Racci - Cermaque
+53.    Voda už je svařená - Michal Horák
+54.    Kometa - J. Nohavica
+55.    Bláznova ukolébavka - P. Dydovič
+56.    Ho Ho Watanay - Lohonka Žalman
+57.    Mravenčí ukolébavka - Z. Svěrák, J. Uhlíř
