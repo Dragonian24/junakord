@@ -1,4 +1,4 @@
-﻿(Méďa)
+(Méďa)
 (Terka Střílkec)
 (0, G)
 (1.)
@@ -22,9 +22,14 @@ Tatínek povídal že, z okna viděl pána.
 2x Který mi, méďu sebral
 
 Otevřel okno a hlasitě zařval:
-,,Hej ty, toho méďu, okamžitě naval!”
-ten jen mávl rukou, a odjel fárem.
+,,Hej ty dole , toho méďu, okamžitě naval!”
+ten chlap jen mávl rukou, a odjel fárem.
+Tatínek ne
+
 (ref:)
 (4.) Naši mi koupili, nového méďu
 ale já jej nechci, já chci jenom Béďu.
+Zařval jsem a utekl do pokojíčku,
+Já držel minutu ticha, já držel minutu ticha
 (ref:)
+[A, E, D]

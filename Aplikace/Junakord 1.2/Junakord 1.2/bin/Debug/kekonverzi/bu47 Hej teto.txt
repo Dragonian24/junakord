@@ -1,11 +1,11 @@
 (Hej teto)                    
 (M. Horák)           
-(0, A moll)                     
+(1, G moll)                     
 (1:)
-Měl jsem [Gmi]hlídat 
-tetě [B]křečka, 
-[F]dala mi ho se slovy, ať 
-[C]u mě chvíli přečká.
+Měl jsem [F#mi]hlídat 
+tetě [A]křečka, 
+[E]dala mi ho se slovy, ať 
+[A]u mě chvíli přečká.
 
 Ale křečka
 uhlídati
@@ -20,7 +20,7 @@ Do zad kromě,
 Polštářů i cosi,
 Už se vidím tetu prosit.
 (Ref:)
-Hej [Es] teto, 
+Hej [D] teto, 
 já ho [B] zabil, 
 [D] už se to nestane, jo 
 [Gmi] ten už asi nevstane. 
@@ -29,7 +29,7 @@ nekřič [B] na mě,
 [D] já ho prostě neviděl, 
 [Gmi] už dost jsem se nastyděl, 
 hej [Es] teto! 
-[B], [D], [Gmi], [Es], [B], [D], [D7] 
+[A, C#, F#mi, D, A, C#, C#7] 
 (2:)
 Tak jsem kouknul, 
 co mě tlačí, 

@@ -2,12 +2,12 @@
 (Štědroň)           
 (0, A moll)                     
 (1:)
-[C]Zabili, [F]zabili, [Dmi]chlapa z [F]koloča [C]vy,
-[C]řekněte [F] hrobaři, [G] kde je [Dm7]pocho [F]vaný? [C]
+[C]Zabili, [F]zabili, [Dmi]chlapa z [F]koloča[C]vy,
+[C]řekněte [F] hrobaři, [G] kde je [Dm7]pocho[F]vaný? [C]
 (Ref:)
-[F]Bylo tu není tu, havrani [B]na plotu
-[F]Bylo víno v sudě [B]teď tam vo [C7]da bude
-[F] není, není tu
+[C]Bylo tu není tu, havrani [F]na plotu
+[C]Bylo víno v sudě [F]teď tam vo [G7]da bude
+[C] není, [F]není [C]tu
 (2:)
 Špatně ho zabili
 špatně pochovali

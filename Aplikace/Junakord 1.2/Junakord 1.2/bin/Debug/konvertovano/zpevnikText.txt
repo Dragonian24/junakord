@@ -110,16 +110,21 @@ Jednou jsem méďu samého na hřišti nechal.
 <p class="text">2x Který mi, méďu sebral<br />
 <br />
 Otevřel okno a hlasitě zařval:<br />
-,,Hej ty, toho méďu, okamžitě naval!”<br />
-ten jen mávl rukou, a odjel fárem.
+,,Hej ty dole , toho méďu, okamžitě naval!”<br />
+ten chlap jen mávl rukou, a odjel fárem.<br />
+Tatínek ne<br />
+
 </p>
 <h2>ref:</h2>
 <p class="text"><br />
 <h2>4.</h2> Naši mi koupili, nového méďu
 <p class="text">ale já jej nechci, já chci jenom Béďu.<br />
+Zařval jsem a utekl do pokojíčku,<br />
+Já držel minutu ticha, já držel minutu ticha
 </p>
 <h2>ref:</h2>
 <p class="text"><br />
+</p>
 </div></div>
 
 <div class="container"><h1>5 Marihuana</h1>
@@ -153,7 +158,7 @@ Tam, kde čeká tábor stanový,<br />
 ten přítel náš, ten přítel váš.
 </p>
 <h2>Ref:</h2>
-<p class="text">Tam v dáli u Roudenského<br />
+<p class="text">Tam v dálce u Roudenského<br />
 mlýna teče Harta líná,<br />
 v měkké trávě záda nebolí,<br />
 tam příboj vlnek a zpěv žabí<br />
@@ -733,7 +738,7 @@ Pak zeptaj se tě: „Hrdino, cos dělal za války?“<br />
 <p class="text"><br />
 </div></div>
 
-<div class="container"><h1>22 Ruty luty arizona, texas</h1>
+<div class="container"><h1>22 Ruty šuty arizona, texas</h1>
 <h3>Neznámý</h3>
 <div class="pisnicka" > 
 <h2>1:</h2>
@@ -1376,6 +1381,24 @@ Seržante, mávnou, a budem zasvěceni.<br />
 Morituri te salutant,<br />
 Morituri te salutant.
 </p>
+<h2>3:</h2>
+<p class="text">Tou cestou dál jsem šel, kde na zemi se zmítá<br />
+a písek víří křídlo holubí.<br />
+A marš mi hrál zvuk děl, co uklidnění skýtá,<br />
+a zvedá chmýří, které zahubí.<br />
+A marš mi hrál zvuk děl, co uklidnění skýtá,<br />
+a zvedá chmýří, které zahubí.
+</p>
+<h2>4:</h2>
+<p class="text">Cesta je tér a prach a udusaná hlína,<br />
+mosazná včelka od vlkodlaka.<br />
+Rezavý kvér - můj brach, a sto let stará špína,<br />
+a děsně velká bílá oblaka.<br />
+Rezavý kvér - můj brach, a sto let stará špína,<br />
+a děsně velká bílá oblaka.
+</p>
+<h2>Ref:</h2>
+<p class="text"><br />
 </div></div>
 
 <div class="container"><h1>40 Slavíci z Madridu</h1>
@@ -1441,11 +1464,15 @@ já si dám sklenici vína.
 <p class="text">Prázdnej byt je jako past<br />
 kde růže uvadnou<br />
 Potisíci čtu tvu j dopis<br />
-na rozloučenouPíšeš že odcházíš, když den se s nocí střídá<br />
-Vodu z vína udělá kdo dobře nehlídá. Píšeš:
+na rozloučenoc<br />
+Píšeš že odcházíš, když den se<br />
+s nocí střídá<br />
+Vodu z vína udělá kdo<br />
+dobře nehlídá. Píšeš:
 </p>
 <h2>Ref:</h2>
-<p class="text">C. Ty tvoje ústa proklínám<br />
+<p class="text">C. Ty tvoje<br />
+ústa proklínám<br />
 Tvoje oči ledový.<br />
 V srdci jen sníh sám a sám.<br />
 Ať nikdy úsvit nespatříš<br />
@@ -1540,7 +1567,7 @@ a nekonečnou oblohou to stádo s námi hnát.
 </div></div>
 
 <div class="container"><h1>44 Motlitba vodáka</h1>
-<h3></h3>
+<h3>Hop Trop</h3>
 <div class="pisnicka" > 
 <h2>1:</h2>
 <p class="text">Ať jsou šlajsny plný vody, ať jsou vlny mohutný,<br />
@@ -1600,8 +1627,8 @@ a na bílou kůži Ti napíšu tuší<br />
 <h3>Štědroň</h3>
 <div class="pisnicka" > 
 <h2>1:</h2>
-<p class="text">Zabili, zabili, chlapa z koloča vy,<br />
-řekněte  hrobaři,  kde je pocho vaný? 
+<p class="text">Zabili, zabili, chlapa z koločavy,<br />
+řekněte  hrobaři,  kde je pochovaný? 
 </p>
 <h2>Ref:</h2>
 <p class="text">Bylo tu není tu, havrani na plotu<br />
@@ -1665,7 +1692,7 @@ nekřič  na mě,<br />
  já ho prostě neviděl,<br />
  už dost jsem se nastyděl,<br />
 hej  teto!<br />
-, , , , , , 
+
 </p>
 <h2>2:</h2>
 <p class="text">Tak jsem kouknul,<br />
@@ -2087,6 +2114,31 @@ tykadlama ho hladí.
 <h2>3:</h2>
 <p class="text">La-la-la-lá-la-la-la-lá<br />
 la-la-la-la-la-la-lá-lá....
+</p>
+</div></div>
+
+<div class="container"><h1>58 Variace na renesanční téma</h1>
+<h3>Mišík</h3>
+<div class="pisnicka" > 
+<h2>1:</h2>
+<p class="text">Láska je jako večernice plující černou oblohou,<br />
+zavřete dveře na petlice, zhasněte v domě všechny svíce!<br />
+A opevněte svoje těla, vy, kterým srdce zkameněla.<br />
+
+</p>
+<h2>2:</h2>
+<p class="text">Láska je jako krásná loď, která ztratila kapitána,<br />
+námořníkům se třesou ruce a bojí se, co bude zrána!<br />
+Láska je jako bolest z probuzení a horké ruce hvězd,<br />
+které ti oknem do vězení květiny sypou ze svatebních cest,<br />
+které ti oknem do vězení květiny sypou ze svatebních cest.
+</p>
+<h2>3:</h2>
+<p class="text">Láska je jako večernice plující černou oblohou!<br />
+Náš život hoří jako svíce a mrtví milovat nemohou!<br />
+Náš život hoří jako svíce a mrtví milovat nemohou.<br />
+<br />
+
 </p>
 </div></div>
 

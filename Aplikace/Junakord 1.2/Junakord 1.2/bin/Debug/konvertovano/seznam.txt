@@ -19,7 +19,7 @@
 19.    Kozel - Jarek Nohavica
 20.    Grónská písnička - Nohavica
 21.    Buráky - J. Fallada
-22.    Ruty luty arizona, texas - Neznámý
+22.    Ruty šuty arizona, texas - Neznámý
 23.    Tři citrónky - neznámý
 24.    Tisíc mil - Ivo Fisher
 25.    Severní větry - J. uhlíř
@@ -41,7 +41,7 @@
 41.    Proklínám - Ledecký
 42.    Tulácký ráno - Brontosauři
 43.    Nebeští jezdci - Matuška
-44.    Motlitba vodáka - 
+44.    Motlitba vodáka - Hop Trop
 45.    Panenka - Robert Křesťan
 46.    Zabili, zabili /Balada pro banditu - Štědroň
 47.    Hej teto - M. Horák
@@ -55,3 +55,4 @@
 55.    Bláznova ukolébavka - P. Dydovič
 56.    Ho Ho Watanay - Lohonka Žalman
 57.    Mravenčí ukolébavka - Z. Svěrák, J. Uhlíř
+58.    Variace na renesanční téma - Mišík
